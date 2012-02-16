@@ -53,30 +53,16 @@ clearos_load_library('base/Country');
 ///////////////////////////////////////////////////////////////////////////////
 // C O N F I G
 ///////////////////////////////////////////////////////////////////////////////
-/*
-// TODO: mobile number field?
-
-    'mobile' => array(
-        'type' => 'string',
-        'field_type' => 'text',
-        'required' => FALSE,
-        'validator' => 'validate_mobile_number',
-        'validator_class' => 'contact_extension/OpenLDAP_User_Extension',
-        'description' => lang('contact_extension_mobile_number'),
-        'object_class' => 'clearAccount',
-        'attribute' => 'mobileTelephoneNumber'
-    ),
-*/
 
 // Load list of countries
 
 try {
-    // TODO: discuss how to deal with "not specified".  See validate_country too.
+    // TODO: discuss how to deal with "select".  See validate_country too.
     $country = new Country();
     $country_list = $country->get_list();
-    $country_list['__'] = ' -- ' . lang('base_not_specified') . ' -- ';
+    $country_list['__'] = ' ' . lang('base_select') . ' ';
     asort($country_list);
-} catch (Exception $e) {
+} catch (\Exception $e) {
     // 
 }
 
@@ -89,8 +75,19 @@ $info_map = array(
         'validator' => 'validate_email',
         'validator_class' => 'contact_extension/OpenLDAP_User_Extension',
         'description' => lang('contact_extension_email'),
-        'object_class' => 'clearAccount',
+        'object_class' => 'clearContactAccount',
         'attribute' => 'mail'
+    ),
+
+    'aliases' => array(
+        'type' => 'string_array',
+        'field_type' => 'text_array',
+        'required' => FALSE,
+        'validator' => 'validate_alias',
+        'validator_class' => 'contact_extension/OpenLDAP_User_Extension',
+        'description' => lang('contact_extension_aliases'),
+        'object_class' => 'clearContactAccount',
+        'attribute' => 'clearMailAliases'
     ),
 
     'city' => array(
@@ -100,7 +97,7 @@ $info_map = array(
         'validator' => 'validate_city',
         'validator_class' => 'contact_extension/OpenLDAP_User_Extension',
         'description' => lang('contact_extension_city'),
-        'object_class' => 'clearAccount',
+        'object_class' => 'clearContactAccount',
         'attribute' => 'l' 
     ),
 
@@ -112,7 +109,7 @@ $info_map = array(
         'validator' => 'validate_country',
         'validator_class' => 'contact_extension/OpenLDAP_User_Extension',
         'description' => lang('contact_extension_country'),
-        'object_class' => 'clearAccount',
+        'object_class' => 'clearContactAccount',
         'attribute' => 'c'
     ),
 
@@ -123,7 +120,7 @@ $info_map = array(
         'validator' => 'validate_fax_number',
         'validator_class' => 'contact_extension/OpenLDAP_User_Extension',
         'description' => lang('contact_extension_fax_number'),
-        'object_class' => 'clearAccount',
+        'object_class' => 'clearContactAccount',
         'attribute' => 'facsimileTelephoneNumber' 
     ),
 
@@ -134,7 +131,7 @@ $info_map = array(
         'validator' => 'validate_organization',
         'validator_class' => 'contact_extension/OpenLDAP_User_Extension',
         'description' => lang('contact_extension_organization'),
-        'object_class' => 'clearAccount',
+        'object_class' => 'clearContactAccount',
         'attribute' => 'o'
     ),
 
@@ -145,7 +142,7 @@ $info_map = array(
         'validator' => 'validate_postal_code',
         'validator_class' => 'contact_extension/OpenLDAP_User_Extension',
         'description' => lang('contact_extension_postal_code'),
-        'object_class' => 'clearAccount',
+        'object_class' => 'clearContactAccount',
         'attribute' => 'postalCode'
     ),
 
@@ -156,7 +153,7 @@ $info_map = array(
         'validator' => 'validate_post_office_box',
         'validator_class' => 'contact_extension/OpenLDAP_User_Extension',
         'description' => lang('contact_extension_post_office_box'),
-        'object_class' => 'clearAccount',
+        'object_class' => 'clearContactAccount',
         'attribute' => 'postOfficeBox'
     ),
 
@@ -167,7 +164,7 @@ $info_map = array(
         'validator' => 'validate_region',
         'validator_class' => 'contact_extension/OpenLDAP_User_Extension',
         'description' => lang('contact_extension_region'),
-        'object_class' => 'clearAccount',
+        'object_class' => 'clearContactAccount',
         'attribute' => 'st'
     ),
 
@@ -178,7 +175,7 @@ $info_map = array(
         'validator' => 'validate_room_number',
         'validator_class' => 'contact_extension/OpenLDAP_User_Extension',
         'description' => lang('contact_extension_room_number'),
-        'object_class' => 'clearAccount',
+        'object_class' => 'clearContactAccount',
         'attribute' => 'roomNumber'
     ),
 
@@ -189,8 +186,19 @@ $info_map = array(
         'validator' => 'validate_street',
         'validator_class' => 'contact_extension/OpenLDAP_User_Extension',
         'description' => lang('contact_extension_street'),
-        'object_class' => 'clearAccount',
+        'object_class' => 'clearContactAccount',
         'attribute' => 'street'
+    ),
+
+    'mobile' => array(
+        'type' => 'string',
+        'field_type' => 'text',
+        'required' => FALSE,
+        'validator' => 'validate_mobile_number',
+        'validator_class' => 'contact_extension/OpenLDAP_User_Extension',
+        'description' => lang('contact_extension_mobile_number'),
+        'object_class' => 'clearContactAccount',
+        'attribute' => 'mobile'
     ),
 
     'telephone' => array(
@@ -200,7 +208,7 @@ $info_map = array(
         'validator' => 'validate_telephone_number',
         'validator_class' => 'contact_extension/OpenLDAP_User_Extension',
         'description' => lang('contact_extension_telephone_number'),
-        'object_class' => 'clearAccount',
+        'object_class' => 'clearContactAccount',
         'attribute' => 'telephoneNumber'
     ),
 
@@ -211,7 +219,7 @@ $info_map = array(
         'validator' => 'validate_unit',
         'validator_class' => 'contact_extension/OpenLDAP_User_Extension',
         'description' => lang('contact_extension_unit'),
-        'object_class' => 'clearAccount',
+        'object_class' => 'clearContactAccount',
         'attribute' => 'ou'
     ),
 );

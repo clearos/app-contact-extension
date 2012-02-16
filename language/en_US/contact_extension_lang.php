@@ -30,3 +30,4 @@ $lang['contact_extension_room_number_is_invalid'] = 'Room number is invalid.';
 $lang['contact_extension_street_is_invalid'] = 'Street is invalid.';
 $lang['contact_extension_telephone_number_is_invalid'] = 'Telephone number is invalid.';
 $lang['contact_extension_unit_is_invalid'] = 'Unit is invalid.';
+$lang['contact_extension_aliases'] = 'Aliases';

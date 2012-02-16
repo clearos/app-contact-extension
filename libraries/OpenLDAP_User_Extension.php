@@ -46,26 +46,25 @@ require_once $bootstrap . '/bootstrap.php';
 // T R A N S L A T I O N S
 ///////////////////////////////////////////////////////////////////////////////
 
-clearos_load_language('base');
+clearos_load_language('contact_extension');
 
 ///////////////////////////////////////////////////////////////////////////////
 // D E P E N D E N C I E S
 ///////////////////////////////////////////////////////////////////////////////
-
-// Classes
-//--------
 
 use \clearos\apps\base\Country as Country;
 use \clearos\apps\base\Engine as Engine;
 use \clearos\apps\openldap_directory\OpenLDAP as OpenLDAP;
 use \clearos\apps\openldap_directory\Utilities as Utilities;
 use \clearos\apps\organization\Organization as Organization;
+use \clearos\apps\users\User_Factory as User_Factory;
 
 clearos_load_library('base/Country');
 clearos_load_library('base/Engine');
 clearos_load_library('openldap_directory/OpenLDAP');
 clearos_load_library('openldap_directory/Utilities');
 clearos_load_library('organization/Organization');
+clearos_load_library('users/User_Factory');
 
 ///////////////////////////////////////////////////////////////////////////////
 // C L A S S
@@ -240,6 +239,23 @@ class OpenLDAP_User_Extension extends Engine
     ///////////////////////////////////////////////////////////////////////////////
     // V A L I D A T I O N   M E T H O D S
     ///////////////////////////////////////////////////////////////////////////////
+
+    /**
+     * Validation routine for alias.
+     *
+     * @param string $alias alias
+     *
+     * @return string error message if alias is invalid
+     */
+
+    public function validate_alias($alias)
+    {
+        clearos_profile(__METHOD__, __LINE__);
+
+        $user = User_Factory::create('notused');
+
+        return $user->validate_username($alias);
+    }
 
     /**
      * Validation routine for city.

@@ -1,13 +1,14 @@
 
 Name: app-contact-extension
 Epoch: 1
-Version: 1.0.2
+Version: 1.0.4
 Release: 1%{dist}
 Summary: Contact Extension - APIs and install
 License: LGPLv3
 Group: ClearOS/Libraries
 Source: app-contact-extension-%{version}.tar.gz
 Buildarch: noarch
+
 %description
 The Contact Extension extends the directory with user contact information such as phone number, address, and e-mail.
 
