@@ -1,7 +1,7 @@
 
 Name: app-contact-extension
 Epoch: 1
-Version: 1.0.4
+Version: 1.0.7
 Release: 1%{dist}
 Summary: Contact Extension - APIs and install
 License: LGPLv3
@@ -10,7 +10,7 @@ Source: app-contact-extension-%{version}.tar.gz
 Buildarch: noarch
 
 %description
-The Contact Extension extends the directory with user contact information such as phone number, address, and e-mail.
+The Contact Extension extends the directory with user contact information such as phone number, mobile, and address.
 
 %package core
 Summary: Contact Extension - APIs and install
@@ -20,7 +20,7 @@ Requires: app-organization
 Requires: app-users
 
 %description core
-The Contact Extension extends the directory with user contact information such as phone number, address, and e-mail.
+The Contact Extension extends the directory with user contact information such as phone number, mobile, and address.
 
 This package provides the core API and libraries.
 
@@ -32,7 +32,7 @@ This package provides the core API and libraries.
 mkdir -p -m 755 %{buildroot}/usr/clearos/apps/contact_extension
 cp -r * %{buildroot}/usr/clearos/apps/contact_extension/
 
-install -D -m 0644 packaging/contact.php %{buildroot}/var/clearos/openldap_directory/extensions/90_contact.php
+install -D -m 0644 packaging/contact.php %{buildroot}/var/clearos/openldap_directory/extensions/72_contact.php
 
 %post core
 logger -p local6.notice -t installer 'app-contact-extension-core - installing'
@@ -61,4 +61,4 @@ exit 0
 /usr/clearos/apps/contact_extension/deploy
 /usr/clearos/apps/contact_extension/language
 /usr/clearos/apps/contact_extension/libraries
-/var/clearos/openldap_directory/extensions/90_contact.php
+/var/clearos/openldap_directory/extensions/72_contact.php

@@ -67,29 +67,6 @@ try {
 }
 
 $info_map = array(
-    'mail' => array(
-        'type' => 'string',
-        'field_type' => 'text',
-        'field_priority' => 'read_only',
-        'required' => FALSE,
-        'validator' => 'validate_email',
-        'validator_class' => 'contact_extension/OpenLDAP_User_Extension',
-        'description' => lang('contact_extension_email'),
-        'object_class' => 'clearContactAccount',
-        'attribute' => 'mail'
-    ),
-
-    'aliases' => array(
-        'type' => 'string_array',
-        'field_type' => 'text_array',
-        'required' => FALSE,
-        'validator' => 'validate_alias',
-        'validator_class' => 'contact_extension/OpenLDAP_User_Extension',
-        'description' => lang('contact_extension_aliases'),
-        'object_class' => 'clearContactAccount',
-        'attribute' => 'clearMailAliases'
-    ),
-
     'city' => array(
         'type' => 'string',
         'field_type' => 'text',

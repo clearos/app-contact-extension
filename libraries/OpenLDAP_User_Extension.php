@@ -126,11 +126,6 @@ class OpenLDAP_User_Extension extends Engine
         if (empty($user_info['extensions']['contact']))
             return array();
 
-        // Set defaults
-        //-------------
-
-        $user_info['extensions']['contact']['mail'] = $ldap_object['uid'] . '@' . OpenLDAP::get_base_internet_domain();
-
         // Convert to LDAP attributes
         //---------------------------
 
@@ -220,11 +215,6 @@ class OpenLDAP_User_Extension extends Engine
         if (! isset($user_info['extensions']['contact']))
             return array();
 
-        // Set defaults
-        //-------------
-
-        $user_info['extensions']['contact']['mail'] = $ldap_object['uid'] . '@' . OpenLDAP::get_base_internet_domain();
-
         // Convert to LDAP attributes
         //---------------------------
 
@@ -239,23 +229,6 @@ class OpenLDAP_User_Extension extends Engine
     ///////////////////////////////////////////////////////////////////////////////
     // V A L I D A T I O N   M E T H O D S
     ///////////////////////////////////////////////////////////////////////////////
-
-    /**
-     * Validation routine for alias.
-     *
-     * @param string $alias alias
-     *
-     * @return string error message if alias is invalid
-     */
-
-    public function validate_alias($alias)
-    {
-        clearos_profile(__METHOD__, __LINE__);
-
-        $user = User_Factory::create('notused');
-
-        return $user->validate_username($alias);
-    }
 
     /**
      * Validation routine for city.
@@ -306,22 +279,6 @@ class OpenLDAP_User_Extension extends Engine
 
         if (preg_match("/([:;\/#!@])/", $number))
             return lang('contact_extension_fax_number_is_invalid');
-    }
-
-    /**
-     * Validation routine for e-mail address.
-     *
-     * @param string $email e-mail address
-     *
-     * @return string error message if e-mail address invalid
-     */
-
-    public function validate_email($email)
-    {
-        clearos_profile(__METHOD__, __LINE__);
-
-        if (! preg_match("/^([a-z0-9_\-\.\$]+)@/", $email))
-            return lang('contact_extension_email_is_invalid');
     }
 
     /**

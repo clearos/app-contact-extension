@@ -5,7 +5,7 @@
 /////////////////////////////////////////////////////////////////////////////
 
 $app['basename'] = 'contact_extension';
-$app['version'] = '1.0.4';
+$app['version'] = '1.0.7';
 $app['release'] = '1';
 $app['vendor'] = 'ClearFoundation';
 $app['packager'] = 'ClearFoundation';
@@ -36,6 +36,6 @@ $app['core_requires'] = array(
 
 $app['core_file_manifest'] = array( 
    'contact.php' => array(
-        'target' => '/var/clearos/openldap_directory/extensions/90_contact.php'
+        'target' => '/var/clearos/openldap_directory/extensions/72_contact.php'
     ),
 );
