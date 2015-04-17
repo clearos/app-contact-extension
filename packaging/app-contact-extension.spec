@@ -1,7 +1,7 @@
 
 Name: app-contact-extension
 Epoch: 1
-Version: 2.0.18
+Version: 2.0.24
 Release: 1%{dist}
 Summary: Contact Extension - Core
 License: LGPLv3
