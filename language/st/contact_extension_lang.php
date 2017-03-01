@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'The Contact Extension fetela ea dibaka le user want-meet.ru ikopanye tlhahisoleseding e jwalo ka nomoro ea mohala, mobile, le aterese.';
+$lang['contact_extension_app_name'] = 'Contact Extension';
+$lang['contact_extension_contact_account_extension'] = 'Contact Account Extension';
+$lang['contact_extension_contact'] = 'Contact';
+$lang['contact_extension_city'] = 'City';
+$lang['contact_extension_country'] = 'naha';
+$lang['contact_extension_fax_number'] = 'Number Fax';
+$lang['contact_extension_mobile_number'] = 'Nomoro ea lekolulo';
+$lang['contact_extension_organization'] = 'mokhatlo o hlophisitsoeng oa';
+$lang['contact_extension_postal_code'] = 'Nomoro ea poso';
+$lang['contact_extension_post_office_box'] = 'Postal Office Box';
+$lang['contact_extension_region'] = 'Region';
+$lang['contact_extension_room_number'] = 'Number Room';
+$lang['contact_extension_street'] = 'Street';
+$lang['contact_extension_telephone_number'] = 'Telephone Number';
+$lang['contact_extension_unit'] = 'Unit';
+$lang['contact_extension_city_is_invalid'] = 'City ha o sebetse.';
+$lang['contact_extension_country_is_invalid'] = 'Naha ha o sebetse.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Nomoro ya fekse ha o sebetse.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobile palo ha o sebetse.';
+$lang['contact_extension_organization_is_invalid'] = 'Mokhatlo o hlophisitsoeng oa ha o sebetse.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Posong lebokose le reng ha o sebetse.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Khoutu ya poso ha o sebetse.';
+$lang['contact_extension_region_is_invalid'] = 'Region ha o sebetse.';
+$lang['contact_extension_room_number_is_invalid'] = 'Room palo ha o sebetse.';
+$lang['contact_extension_street_is_invalid'] = 'Street ha o sebetse.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Nomoro ya mohala ha o sebetse.';
+$lang['contact_extension_unit_is_invalid'] = 'Unit ha o sebetse.';
