@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'والاتصال تمديد يمتد الدليل مع معلومات الاتصال المستخدم مثل رقم الهاتف، الجوال، وعنوان.';
+$lang['contact_extension_app_name'] = 'الاتصال التمديد';
+$lang['contact_extension_contact_account_extension'] = 'الاتصال تمديد الحساب';
+$lang['contact_extension_contact'] = 'اتصل';
+$lang['contact_extension_city'] = 'مدينة';
+$lang['contact_extension_country'] = 'بلد';
+$lang['contact_extension_fax_number'] = 'رقم الفاكس';
+$lang['contact_extension_mobile_number'] = 'رقم الهاتف المحمول';
+$lang['contact_extension_organization'] = 'منظمة';
+$lang['contact_extension_postal_code'] = 'الرمز البريدي';
+$lang['contact_extension_post_office_box'] = 'البريد شباك التذاكر';
+$lang['contact_extension_region'] = 'منطقة';
+$lang['contact_extension_room_number'] = 'رقم الغرفة';
+$lang['contact_extension_street'] = 'شارع';
+$lang['contact_extension_telephone_number'] = 'رقم هاتف';
+$lang['contact_extension_unit'] = 'وحدة';
+$lang['contact_extension_city_is_invalid'] = 'مدينة غير صحيحة.';
+$lang['contact_extension_country_is_invalid'] = 'بلد غير صالح.';
+$lang['contact_extension_fax_number_is_invalid'] = 'رقم الفاكس غير صالح.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'رقم الجوال غير صالح.';
+$lang['contact_extension_organization_is_invalid'] = 'منظمة غير صالحة.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'صندوق بريد غير صالح.';
+$lang['contact_extension_postal_code_is_invalid'] = 'الرمز البريدي غير صالح.';
+$lang['contact_extension_region_is_invalid'] = 'منطقة غير صالحة.';
+$lang['contact_extension_room_number_is_invalid'] = 'رقم الغرفة غير صالح.';
+$lang['contact_extension_street_is_invalid'] = 'الشارع هو غير صالح.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'رقم الهاتف غير صالح.';
+$lang['contact_extension_unit_is_invalid'] = 'وحدة غير صالحة.';
