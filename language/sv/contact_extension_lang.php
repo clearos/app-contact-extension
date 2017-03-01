@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Kontakt Extension utökar katalog med användar kontaktinformation som telefonnummer, mobil, och adress.';
+$lang['contact_extension_app_name'] = 'kontakt Extension';
+$lang['contact_extension_contact_account_extension'] = 'Kontakt konto Extension';
+$lang['contact_extension_contact'] = 'Kontakta';
+$lang['contact_extension_city'] = 'Stad';
+$lang['contact_extension_country'] = 'Land';
+$lang['contact_extension_fax_number'] = 'Faxnummer';
+$lang['contact_extension_mobile_number'] = 'Mobilnummer';
+$lang['contact_extension_organization'] = 'Organisation';
+$lang['contact_extension_postal_code'] = 'postnummer';
+$lang['contact_extension_post_office_box'] = 'Postal Office Box';
+$lang['contact_extension_region'] = 'Område';
+$lang['contact_extension_room_number'] = 'Rumsnummer';
+$lang['contact_extension_street'] = 'Gata';
+$lang['contact_extension_telephone_number'] = 'Telefonnummer';
+$lang['contact_extension_unit'] = 'Enhet';
+$lang['contact_extension_city_is_invalid'] = 'City är ogiltig.';
+$lang['contact_extension_country_is_invalid'] = 'Land är ogiltig.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Faxnummer är ogiltigt.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobilnummer är ogiltigt.';
+$lang['contact_extension_organization_is_invalid'] = 'Organisationen är ogiltig.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Postbox är ogiltig.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Postnummer är ogiltig.';
+$lang['contact_extension_region_is_invalid'] = 'Region är ogiltig.';
+$lang['contact_extension_room_number_is_invalid'] = 'Rumsnumret är ogiltigt.';
+$lang['contact_extension_street_is_invalid'] = 'Street är ogiltig.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Telefonnumret är ogiltigt.';
+$lang['contact_extension_unit_is_invalid'] = 'Enheten är ogiltig.';
