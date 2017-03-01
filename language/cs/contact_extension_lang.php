@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Kontaktní Extension rozšiřuje adresář s uživateli kontaktních informací, jako je telefonní číslo, mobilní telefon a adresu.';
+$lang['contact_extension_app_name'] = 'Kontakt Extension';
+$lang['contact_extension_contact_account_extension'] = 'Kontakt účet Extension';
+$lang['contact_extension_contact'] = 'Kontakt';
+$lang['contact_extension_city'] = 'Město';
+$lang['contact_extension_country'] = 'Země';
+$lang['contact_extension_fax_number'] = 'Číslo faxu';
+$lang['contact_extension_mobile_number'] = 'Číslo mobilního telefonu';
+$lang['contact_extension_organization'] = 'Organizace';
+$lang['contact_extension_postal_code'] = 'poštovní směrovací číslo';
+$lang['contact_extension_post_office_box'] = 'Poštovní úřad Box';
+$lang['contact_extension_region'] = 'Kraj';
+$lang['contact_extension_room_number'] = 'Číslo pokoje';
+$lang['contact_extension_street'] = 'ulice';
+$lang['contact_extension_telephone_number'] = 'Telefonní číslo';
+$lang['contact_extension_unit'] = 'Jednotka';
+$lang['contact_extension_city_is_invalid'] = 'Město je neplatný.';
+$lang['contact_extension_country_is_invalid'] = 'Země je neplatný.';
+$lang['contact_extension_fax_number_is_invalid'] = 'faxové číslo je neplatné.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobil je neplatné.';
+$lang['contact_extension_organization_is_invalid'] = 'Organizace je neplatný.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Poštovní přihrádka je neplatný.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Poštovní směrovací číslo je neplatný.';
+$lang['contact_extension_region_is_invalid'] = 'Region je neplatný.';
+$lang['contact_extension_room_number_is_invalid'] = 'číslo pokoje je neplatné.';
+$lang['contact_extension_street_is_invalid'] = 'Ulice je neplatný.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Telefonní číslo je neplatné.';
+$lang['contact_extension_unit_is_invalid'] = 'Jednotka je neplatný.';
