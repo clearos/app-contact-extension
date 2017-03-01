@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'La Kontakto Pligrandigo etendas la dosierujo kun uzanto kontaktinformojn kiel telefonnumero, telefonoj, kaj adreso.';
+$lang['contact_extension_app_name'] = 'Kontakto Pligrandigo';
+$lang['contact_extension_contact_account_extension'] = 'Kontakto Konto Pligrandigo';
+$lang['contact_extension_contact'] = 'Kontakto';
+$lang['contact_extension_city'] = 'urbo';
+$lang['contact_extension_country'] = 'lando';
+$lang['contact_extension_fax_number'] = 'fakso Nombro';
+$lang['contact_extension_mobile_number'] = 'Poŝtelefona numero';
+$lang['contact_extension_organization'] = 'Organizo';
+$lang['contact_extension_postal_code'] = 'Poŝtkodo';
+$lang['contact_extension_post_office_box'] = 'Poŝta Oficejo Skatolo';
+$lang['contact_extension_region'] = 'regiono';
+$lang['contact_extension_room_number'] = 'ĉambro Nombro';
+$lang['contact_extension_street'] = 'strato';
+$lang['contact_extension_telephone_number'] = 'Telefonnumero';
+$lang['contact_extension_unit'] = 'unuobla';
+$lang['contact_extension_city_is_invalid'] = 'Urbo estas nevalida.';
+$lang['contact_extension_country_is_invalid'] = 'Lando estas nevalidaj.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Telefaksilo nombro estas nevalida.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Movebla nombro estas nevalida.';
+$lang['contact_extension_organization_is_invalid'] = 'Organizo estas nevalida.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Poŝtoficejo skatolo estas nevalida.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Poŝtkodo estas nevalida.';
+$lang['contact_extension_region_is_invalid'] = 'Regiono estas nevalida.';
+$lang['contact_extension_room_number_is_invalid'] = 'Ĉambro nombro estas nevalida.';
+$lang['contact_extension_street_is_invalid'] = 'Strato estas nevalida.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Telefona nombro estas nevalida.';
+$lang['contact_extension_unit_is_invalid'] = 'Unueco estas nevalida.';
