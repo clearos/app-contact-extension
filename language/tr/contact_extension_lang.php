@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'İletişim Uzatma, telefon numarası, mobil ve adres gibi kullanıcı iletişim bilgileri ile dizin uzanır.';
+$lang['contact_extension_app_name'] = 'İletişim Uzantısı';
+$lang['contact_extension_contact_account_extension'] = 'İletişim Hesap Uzantısı';
+$lang['contact_extension_contact'] = 'Temas';
+$lang['contact_extension_city'] = 'Şehir';
+$lang['contact_extension_country'] = 'ülke';
+$lang['contact_extension_fax_number'] = 'Faks numarası';
+$lang['contact_extension_mobile_number'] = 'Cep numarası';
+$lang['contact_extension_organization'] = 'organizasyon';
+$lang['contact_extension_postal_code'] = 'posta kodu';
+$lang['contact_extension_post_office_box'] = 'Posta Kutusu';
+$lang['contact_extension_region'] = 'bölge';
+$lang['contact_extension_room_number'] = 'Oda numarası';
+$lang['contact_extension_street'] = 'sokak';
+$lang['contact_extension_telephone_number'] = 'Telefon numarası';
+$lang['contact_extension_unit'] = 'birim';
+$lang['contact_extension_city_is_invalid'] = 'Şehir geçersiz.';
+$lang['contact_extension_country_is_invalid'] = 'Ülke geçersiz.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Faks numarası geçersiz.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Cep telefonu numarası geçersiz.';
+$lang['contact_extension_organization_is_invalid'] = 'Organizasyon geçersiz.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Postane kutusu geçersiz.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Posta kodu geçersiz.';
+$lang['contact_extension_region_is_invalid'] = 'Bölge geçersiz.';
+$lang['contact_extension_room_number_is_invalid'] = 'Oda numarası geçersiz.';
+$lang['contact_extension_street_is_invalid'] = 'Sokak geçersiz.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Telefon numarası geçersiz.';
+$lang['contact_extension_unit_is_invalid'] = 'Birim geçersiz.';
