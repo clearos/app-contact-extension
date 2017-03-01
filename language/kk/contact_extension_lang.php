@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Байланыс ұзарту сияқты телефон нөмірі, Ұялы телефон, және мекен-жайы ретінде пайдаланушы байланыс ақпарат каталогты кеңейтеді.';
+$lang['contact_extension_app_name'] = 'Байланыс ұзарту';
+$lang['contact_extension_contact_account_extension'] = 'Шот кеңейтімін хабарласыңыз';
+$lang['contact_extension_contact'] = 'байланыс';
+$lang['contact_extension_city'] = 'қала';
+$lang['contact_extension_country'] = 'ел';
+$lang['contact_extension_fax_number'] = 'Факс нөмірі';
+$lang['contact_extension_mobile_number'] = 'Мобильдік телефон номері';
+$lang['contact_extension_organization'] = 'ұйым';
+$lang['contact_extension_postal_code'] = 'Пошта Индексі';
+$lang['contact_extension_post_office_box'] = 'Пошта Office Box';
+$lang['contact_extension_region'] = 'аймақ';
+$lang['contact_extension_room_number'] = 'Room саны';
+$lang['contact_extension_street'] = 'көше';
+$lang['contact_extension_telephone_number'] = 'Телефон нөмірі';
+$lang['contact_extension_unit'] = 'бірлік';
+$lang['contact_extension_city_is_invalid'] = 'Қала жарамсыз болып табылады.';
+$lang['contact_extension_country_is_invalid'] = 'Country жарамсыз болып табылады.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Факс нөмірі жарамсыз болып табылады.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Мобильді нөмірі жарамсыз болып табылады.';
+$lang['contact_extension_organization_is_invalid'] = 'Ұйым жарамсыз болып табылады.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Пошта жәшікті жарамсыз болып табылады.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Пошта индексі жарамсыз болып табылады.';
+$lang['contact_extension_region_is_invalid'] = 'Аймақ жарамсыз болып табылады.';
+$lang['contact_extension_room_number_is_invalid'] = 'Кабинет нөмірі жарамсыз болып табылады.';
+$lang['contact_extension_street_is_invalid'] = 'Көше жарамсыз болып табылады.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Телефон нөмірі жарамсыз болып табылады.';
+$lang['contact_extension_unit_is_invalid'] = 'Unit жарамсыз болып табылады.';
