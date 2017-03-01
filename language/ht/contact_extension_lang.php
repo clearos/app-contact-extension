@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Ekstansyon an Kontakte fin anyè a ak enfòmasyon itilizatè kontak tankou nimewo telefòn, mobil, ak adrès.';
+$lang['contact_extension_app_name'] = 'Kontakte Ekstansyon';
+$lang['contact_extension_contact_account_extension'] = 'Kontakte Kont Ekstansyon';
+$lang['contact_extension_contact'] = 'Kontakte';
+$lang['contact_extension_city'] = 'City';
+$lang['contact_extension_country'] = 'peyi';
+$lang['contact_extension_fax_number'] = 'Nimewo Faks';
+$lang['contact_extension_mobile_number'] = 'Mobile Nimewo';
+$lang['contact_extension_organization'] = 'Òganizasyon';
+$lang['contact_extension_postal_code'] = 'Kòd postal';
+$lang['contact_extension_post_office_box'] = 'Sèvis Biwo Box';
+$lang['contact_extension_region'] = 'Rejyon';
+$lang['contact_extension_room_number'] = 'Nimewo Sal';
+$lang['contact_extension_street'] = 'Street';
+$lang['contact_extension_telephone_number'] = 'Nimewo telefòn';
+$lang['contact_extension_unit'] = 'inite';
+$lang['contact_extension_city_is_invalid'] = 'City se valab.';
+$lang['contact_extension_country_is_invalid'] = 'Peyi se valab.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Nimewo Faks se valab.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Nimewo mobil se valab.';
+$lang['contact_extension_organization_is_invalid'] = 'Òganizasyon se valab.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Post bwat biwo a se valab.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Sèvis kòd se valab.';
+$lang['contact_extension_region_is_invalid'] = 'Rejyon se valab.';
+$lang['contact_extension_room_number_is_invalid'] = 'Nimewo Sal se valab.';
+$lang['contact_extension_street_is_invalid'] = 'Street se valab.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Nimewo telefòn se valab.';
+$lang['contact_extension_unit_is_invalid'] = 'Inite se valab.';
