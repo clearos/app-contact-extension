@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'ਸੰਪਰਕ ਐਕਸ਼ਟੇਸ਼ਨ ਅਜਿਹੇ ਫੋਨ ਨੰਬਰ, ਮੋਬਾਈਲ, ਅਤੇ ਪਤਾ ਯੂਜ਼ਰ ਸੰਪਰਕ ਜਾਣਕਾਰੀ ਦੇ ਨਾਲ ਡਾਇਰੈਕਟਰੀ ਨੂੰ ਕਵਰ ਕਰਦਾ ਹੈ.';
+$lang['contact_extension_app_name'] = 'ਸੰਪਰਕ ਐਕਸ਼ਟੇਸ਼ਨ';
+$lang['contact_extension_contact_account_extension'] = 'ਸੰਪਰਕ ਖਾਤਾ ਐਕਸ਼ਟੇਸ਼ਨ';
+$lang['contact_extension_contact'] = 'ਸੰਪਰਕ';
+$lang['contact_extension_city'] = 'ਸਿਟੀ';
+$lang['contact_extension_country'] = 'ਦੇਸ਼';
+$lang['contact_extension_fax_number'] = 'ਫੈਕਸ ਨੰਬਰ';
+$lang['contact_extension_mobile_number'] = 'ਮੋਬਾਈਲ ਨੰਬਰ';
+$lang['contact_extension_organization'] = 'ਸੰਗਠਨ';
+$lang['contact_extension_postal_code'] = 'ਡਾਕ ਕੋਡ';
+$lang['contact_extension_post_office_box'] = 'ਡਾਕ ਦਫਤਰ ਬਾਕਸ';
+$lang['contact_extension_region'] = 'ਖੇਤਰ';
+$lang['contact_extension_room_number'] = 'ਕਮਰਾ ਨੰਬਰ';
+$lang['contact_extension_street'] = 'ਸਟਰੀਟ';
+$lang['contact_extension_telephone_number'] = 'ਟੈਲੀਫੋਨ ਨੰਬਰ';
+$lang['contact_extension_unit'] = 'ਯੂਨਿਟ';
+$lang['contact_extension_city_is_invalid'] = 'ਸਿਟੀ ਗਲਤ ਹੈ.';
+$lang['contact_extension_country_is_invalid'] = 'ਦੇਸ਼ ਗਲਤ ਹੈ.';
+$lang['contact_extension_fax_number_is_invalid'] = 'ਫੈਕਸ ਨੰਬਰ ਗਲਤ ਹੈ.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'ਮੋਬਾਈਲ ਨੰਬਰ ਦੀ ਗਲਤ ਹੈ.';
+$lang['contact_extension_organization_is_invalid'] = 'ਸੰਗਠਨ ਗਲਤ ਹੈ.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'ਪੋਸਟ ਦੇ ਦਫਤਰ ਬਾਕਸ ਗਲਤ ਹੈ.';
+$lang['contact_extension_postal_code_is_invalid'] = 'ਡਾਕ ਕੋਡ ਗਲਤ ਹੈ.';
+$lang['contact_extension_region_is_invalid'] = 'ਖੇਤਰ ਗਲਤ ਹੈ.';
+$lang['contact_extension_room_number_is_invalid'] = 'ਕਮਰਾ ਨੰਬਰ ਗਲਤ ਹੈ.';
+$lang['contact_extension_street_is_invalid'] = 'ਸਟਰੀਟ ਗਲਤ ਹੈ.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'ਫੋਨ ਨੰਬਰ ਗਲਤ ਹੈ.';
+$lang['contact_extension_unit_is_invalid'] = 'ਯੂਨਿਟ ਗਲਤ ਹੈ.';
