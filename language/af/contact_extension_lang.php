@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Die Kontak Uitbreiding strek die gids met die gebruiker kontakbesonderhede soos telefoonnommer, mobiele en adres.';
+$lang['contact_extension_app_name'] = 'Kontak Uitbreiding';
+$lang['contact_extension_contact_account_extension'] = 'Kontak Account Uitbreiding';
+$lang['contact_extension_contact'] = 'Kontak';
+$lang['contact_extension_city'] = 'Stad';
+$lang['contact_extension_country'] = 'land';
+$lang['contact_extension_fax_number'] = 'faksnommer';
+$lang['contact_extension_mobile_number'] = 'Selfoon nommer';
+$lang['contact_extension_organization'] = 'organisasie';
+$lang['contact_extension_postal_code'] = 'Poskode';
+$lang['contact_extension_post_office_box'] = 'Postal Office Box';
+$lang['contact_extension_region'] = 'streek';
+$lang['contact_extension_room_number'] = 'Kamer nommer';
+$lang['contact_extension_street'] = 'Street';
+$lang['contact_extension_telephone_number'] = 'Telefoon nommer';
+$lang['contact_extension_unit'] = 'eenheid';
+$lang['contact_extension_city_is_invalid'] = 'Plaas is ongeldig.';
+$lang['contact_extension_country_is_invalid'] = 'Land is ongeldig.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Faksnommer is ongeldig.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Selfoonnommer is ongeldig.';
+$lang['contact_extension_organization_is_invalid'] = 'Organisasie is ongeldig.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Posbus is ongeldig.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Poskode is ongeldig.';
+$lang['contact_extension_region_is_invalid'] = 'Streek is ongeldig.';
+$lang['contact_extension_room_number_is_invalid'] = 'Kamernommer is ongeldig.';
+$lang['contact_extension_street_is_invalid'] = 'Street is ongeldig.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Telefoonnommer is ongeldig.';
+$lang['contact_extension_unit_is_invalid'] = 'Eenheid is ongeldig.';
