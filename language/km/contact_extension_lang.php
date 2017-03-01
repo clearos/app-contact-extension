@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'ផ្នែកបន្ថែមសូមទាក់ទងមកពង្រីកថតដែលមានអ្នកប្រើទំនាក់ទំនងដូចជាលេខទូរស័ព្ទ, ទូរស័ព្ទ, និងអាសយដ្ឋាន។';
+$lang['contact_extension_app_name'] = 'ផ្នែកបន្ថែមសូមទាក់ទងមក';
+$lang['contact_extension_contact_account_extension'] = 'ផ្នែកបន្ថែមគណនីទំនក់ទំនង';
+$lang['contact_extension_contact'] = 'ទំនក់ទំនង';
+$lang['contact_extension_city'] = 'ទីក្រុង';
+$lang['contact_extension_country'] = 'ប្រទេស';
+$lang['contact_extension_fax_number'] = 'លេខទូរសារ';
+$lang['contact_extension_mobile_number'] = 'លេខ​ទូរ​សព្ទ​ចល័ត';
+$lang['contact_extension_organization'] = 'អង្គការ';
+$lang['contact_extension_postal_code'] = 'លេខ​កូដ​ប្រៃ​ស​ណី​យ';
+$lang['contact_extension_post_office_box'] = 'ប្រអប់ការិយាល័យប្រៃសណីយ';
+$lang['contact_extension_region'] = 'តំបន់';
+$lang['contact_extension_room_number'] = 'លេខ​បន្ទប់';
+$lang['contact_extension_street'] = 'តាមផ្លូវ';
+$lang['contact_extension_telephone_number'] = 'លេខទូរស័ព្ទ';
+$lang['contact_extension_unit'] = 'អង្គភាព';
+$lang['contact_extension_city_is_invalid'] = 'ទីក្រុងមិនត្រឹមត្រូវ។';
+$lang['contact_extension_country_is_invalid'] = 'ប្រទេសមិនត្រឹមត្រូវ។';
+$lang['contact_extension_fax_number_is_invalid'] = 'លេខទូរសារមិនត្រឹមត្រូវ។';
+$lang['contact_extension_mobile_number_is_invalid'] = 'លេខទូរស័ព្ទមិនត្រឹមត្រូវ។';
+$lang['contact_extension_organization_is_invalid'] = 'អង្គការមិនត្រឹមត្រូវ។';
+$lang['contact_extension_post_office_box_is_invalid'] = 'ប្រអប់ការិយាល័យប្រៃសណីយ៍មិនត្រឹមត្រូវ។';
+$lang['contact_extension_postal_code_is_invalid'] = 'លេខកូដប្រៃសណីយ៍មិនត្រឹមត្រូវ។';
+$lang['contact_extension_region_is_invalid'] = 'តំបន់មិនត្រឹមត្រូវ។';
+$lang['contact_extension_room_number_is_invalid'] = 'ចំនួនបន្ទប់មិនត្រឹមត្រូវ។';
+$lang['contact_extension_street_is_invalid'] = 'ផ្លូវលេខមិនត្រឹមត្រូវ។';
+$lang['contact_extension_telephone_number_is_invalid'] = 'លេខទូរស័ព្ទមិនត្រឹមត្រូវ។';
+$lang['contact_extension_unit_is_invalid'] = 'អង្គភាពមិនត្រឹមត្រូវ។';
