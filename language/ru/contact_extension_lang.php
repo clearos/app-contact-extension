@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Контактная Extension расширяет каталог с пользователем контактной информацией, такой как номер телефона, мобильный, и адрес.';
+$lang['contact_extension_app_name'] = 'Как связаться с Extension';
+$lang['contact_extension_contact_account_extension'] = 'Как связаться с Extension Account';
+$lang['contact_extension_contact'] = 'контакт';
+$lang['contact_extension_city'] = 'город';
+$lang['contact_extension_country'] = 'Страна';
+$lang['contact_extension_fax_number'] = 'Номер факса';
+$lang['contact_extension_mobile_number'] = 'Мобильный номер';
+$lang['contact_extension_organization'] = 'организация';
+$lang['contact_extension_postal_code'] = 'Почтовый индекс';
+$lang['contact_extension_post_office_box'] = 'Почтовое отделение Box';
+$lang['contact_extension_region'] = 'Область';
+$lang['contact_extension_room_number'] = 'Номер комнаты';
+$lang['contact_extension_street'] = 'улица';
+$lang['contact_extension_telephone_number'] = 'Номер телефона';
+$lang['contact_extension_unit'] = 'Ед. изм';
+$lang['contact_extension_city_is_invalid'] = 'Город является недействительным.';
+$lang['contact_extension_country_is_invalid'] = 'Страна является недействительным.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Номер факса является недействительным.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Мобильный телефон является недействительным.';
+$lang['contact_extension_organization_is_invalid'] = 'Организация является недействительным.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Почтовый ящик является недействительным.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Почтовый индекс является недействительным.';
+$lang['contact_extension_region_is_invalid'] = 'Регион является недействительным.';
+$lang['contact_extension_room_number_is_invalid'] = 'Количество номеров является недействительным.';
+$lang['contact_extension_street_is_invalid'] = 'Улица является недействительным.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Номер телефона является недействительным.';
+$lang['contact_extension_unit_is_invalid'] = 'Единица является недействительным.';
