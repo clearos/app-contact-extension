@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'The Kan si Itẹsiwaju pan ni liana pẹlu olumulo alaye olubasọrọ gẹgẹbi nọmba foonu, mobile, ati adirẹsi.';
+$lang['contact_extension_app_name'] = 'Kan si Itẹsiwaju';
+$lang['contact_extension_contact_account_extension'] = 'Kan si Account Itẹsiwaju';
+$lang['contact_extension_contact'] = 'olubasọrọ';
+$lang['contact_extension_city'] = 'City';
+$lang['contact_extension_country'] = 'orilẹ-ede';
+$lang['contact_extension_fax_number'] = 'Fax Number';
+$lang['contact_extension_mobile_number'] = 'Nomba ti a le gbe rin';
+$lang['contact_extension_organization'] = 'Organization';
+$lang['contact_extension_postal_code'] = 'ifiweranse Code';
+$lang['contact_extension_post_office_box'] = 'Ifiweranse Office Box';
+$lang['contact_extension_region'] = 'Region';
+$lang['contact_extension_room_number'] = 'yara Number';
+$lang['contact_extension_street'] = 'Street';
+$lang['contact_extension_telephone_number'] = 'Telephone Number';
+$lang['contact_extension_unit'] = 'Unit';
+$lang['contact_extension_city_is_invalid'] = 'City ni invalid.';
+$lang['contact_extension_country_is_invalid'] = 'Orilẹ-ede ti wa ni invalid.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Fax nọmba ni invalid.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobile nọmba ni invalid.';
+$lang['contact_extension_organization_is_invalid'] = 'Organization ni invalid.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Ifiweranṣẹ apoti ni invalid.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Koodu ifiweranse ni invalid.';
+$lang['contact_extension_region_is_invalid'] = 'Region ni invalid.';
+$lang['contact_extension_room_number_is_invalid'] = 'Yara nọmba ni invalid.';
+$lang['contact_extension_street_is_invalid'] = 'Street ni invalid.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Tẹlifoonu nọmba ni invalid.';
+$lang['contact_extension_unit_is_invalid'] = 'Kuro ni invalid.';
