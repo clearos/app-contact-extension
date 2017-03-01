@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Kontaktkomiteel pikendamine pikendab kataloog kasutaja kontaktandmed, nagu telefoninumber, mobiiltelefoni ja aadress.';
+$lang['contact_extension_app_name'] = 'Kontakt pikendamine';
+$lang['contact_extension_contact_account_extension'] = 'Kontakt Kontolaiend';
+$lang['contact_extension_contact'] = 'kontakt';
+$lang['contact_extension_city'] = 'linn';
+$lang['contact_extension_country'] = 'Riik';
+$lang['contact_extension_fax_number'] = 'Faksinumber';
+$lang['contact_extension_mobile_number'] = 'Mobiili number';
+$lang['contact_extension_organization'] = 'organisatsioon';
+$lang['contact_extension_postal_code'] = 'Postiindeks';
+$lang['contact_extension_post_office_box'] = 'Postkontor Box';
+$lang['contact_extension_region'] = 'regioon';
+$lang['contact_extension_room_number'] = 'Toa number';
+$lang['contact_extension_street'] = 'tänav';
+$lang['contact_extension_telephone_number'] = 'Telefoninumber';
+$lang['contact_extension_unit'] = 'üksus';
+$lang['contact_extension_city_is_invalid'] = 'City on kehtetu.';
+$lang['contact_extension_country_is_invalid'] = 'Riik on kehtetu.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Faksi number ei sobi.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobiiltelefoni number ei sobi.';
+$lang['contact_extension_organization_is_invalid'] = 'Organisatsioon on kehtetu.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Postkasti ei sobi.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Posti kood ei sobi.';
+$lang['contact_extension_region_is_invalid'] = 'Piirkond on kehtetu.';
+$lang['contact_extension_room_number_is_invalid'] = 'Toa number on kehtetu.';
+$lang['contact_extension_street_is_invalid'] = 'Street on kehtetu.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Telefoninumber on kehtetu.';
+$lang['contact_extension_unit_is_invalid'] = 'Unit on kehtetu.';
