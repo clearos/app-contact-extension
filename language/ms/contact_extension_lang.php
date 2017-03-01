@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Hubungi Extension memanjangkan direktori dengan maklumat hubungan pengguna seperti nombor telefon, mudah alih, dan alamat.';
+$lang['contact_extension_app_name'] = 'Hubungi Extension';
+$lang['contact_extension_contact_account_extension'] = 'Hubungi Akaun Extension';
+$lang['contact_extension_contact'] = 'Hubungi';
+$lang['contact_extension_city'] = 'City';
+$lang['contact_extension_country'] = 'negara';
+$lang['contact_extension_fax_number'] = 'Nombor faks';
+$lang['contact_extension_mobile_number'] = 'Nombor telefon';
+$lang['contact_extension_organization'] = 'pertubuhan';
+$lang['contact_extension_postal_code'] = 'Poskod';
+$lang['contact_extension_post_office_box'] = 'Pos Office Box';
+$lang['contact_extension_region'] = 'rantau';
+$lang['contact_extension_room_number'] = 'Nombor bilik';
+$lang['contact_extension_street'] = 'Street';
+$lang['contact_extension_telephone_number'] = 'Nombor telefon';
+$lang['contact_extension_unit'] = 'Unit';
+$lang['contact_extension_city_is_invalid'] = 'City tidak sah.';
+$lang['contact_extension_country_is_invalid'] = 'Negara tidak sah.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Nombor faks adalah tidak sah.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'nombor telefon bimbit adalah tidak sah.';
+$lang['contact_extension_organization_is_invalid'] = 'Organisasi adalah tidak sah.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'kotak Pejabat pos tidak sah.';
+$lang['contact_extension_postal_code_is_invalid'] = 'kod pos tidak sah.';
+$lang['contact_extension_region_is_invalid'] = 'Rantau adalah tidak sah.';
+$lang['contact_extension_room_number_is_invalid'] = 'nombor bilik tidak sah.';
+$lang['contact_extension_street_is_invalid'] = 'Street adalah tidak sah.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Nombor telefon tidak sah.';
+$lang['contact_extension_unit_is_invalid'] = 'Unit tidak sah.';
