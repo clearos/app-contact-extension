@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Kontaktgruppen Extension udvider biblioteket med brugerens kontaktoplysninger såsom telefonnummer, mobil og adresse.';
+$lang['contact_extension_app_name'] = 'Kontakt Extension';
+$lang['contact_extension_contact_account_extension'] = 'Kontakt konto Extension';
+$lang['contact_extension_contact'] = 'Kontakt';
+$lang['contact_extension_city'] = 'by';
+$lang['contact_extension_country'] = 'Land';
+$lang['contact_extension_fax_number'] = 'Fax nummer';
+$lang['contact_extension_mobile_number'] = 'Mobilnummer';
+$lang['contact_extension_organization'] = 'Organisation';
+$lang['contact_extension_postal_code'] = 'Postnummer';
+$lang['contact_extension_post_office_box'] = 'Posthus Box';
+$lang['contact_extension_region'] = 'Område';
+$lang['contact_extension_room_number'] = 'Værelsesnummer';
+$lang['contact_extension_street'] = 'Gade';
+$lang['contact_extension_telephone_number'] = 'Telefon nummer';
+$lang['contact_extension_unit'] = 'Enhed';
+$lang['contact_extension_city_is_invalid'] = 'City er ugyldig.';
+$lang['contact_extension_country_is_invalid'] = 'Country er ugyldig.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Faxnummer er ugyldigt.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobil nummer er ugyldigt.';
+$lang['contact_extension_organization_is_invalid'] = 'Organisationen er ugyldig.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Postboks er ugyldig.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Postnr er ugyldig.';
+$lang['contact_extension_region_is_invalid'] = 'Region er ugyldig.';
+$lang['contact_extension_room_number_is_invalid'] = 'Room er ugyldigt.';
+$lang['contact_extension_street_is_invalid'] = 'Street er ugyldig.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Telefonnummer er ugyldigt.';
+$lang['contact_extension_unit_is_invalid'] = 'Enhed er ugyldig.';
