@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'સંપર્ક એક્સ્ટેંશન જેમ ફોન નંબર, મોબાઇલ, અને સરનામું તરીકે વપરાશકર્તા સંપર્ક માહિતી સાથે ડિરેક્ટરી લંબાય છે.';
+$lang['contact_extension_app_name'] = 'સંપર્ક એક્સ્ટેંશન';
+$lang['contact_extension_contact_account_extension'] = 'સંપર્ક એકાઉન્ટ એક્સ્ટેંશન';
+$lang['contact_extension_contact'] = 'સંપર્ક';
+$lang['contact_extension_city'] = 'સિટી';
+$lang['contact_extension_country'] = 'દેશ';
+$lang['contact_extension_fax_number'] = 'ફેક્સ નંબર';
+$lang['contact_extension_mobile_number'] = 'મોબાઇલ નંબર';
+$lang['contact_extension_organization'] = 'સંસ્થા';
+$lang['contact_extension_postal_code'] = 'પોસ્ટ કોડ';
+$lang['contact_extension_post_office_box'] = 'ટપાલ ઓફિસ બોક્સ';
+$lang['contact_extension_region'] = 'પ્રદેશ';
+$lang['contact_extension_room_number'] = 'ઓરડા ક્રમાંક';
+$lang['contact_extension_street'] = 'સ્ટ્રીટ';
+$lang['contact_extension_telephone_number'] = 'ટેલીફોન નંબર';
+$lang['contact_extension_unit'] = 'એકમ';
+$lang['contact_extension_city_is_invalid'] = 'સિટી અમાન્ય છે.';
+$lang['contact_extension_country_is_invalid'] = 'દેશ અમાન્ય છે.';
+$lang['contact_extension_fax_number_is_invalid'] = 'ફેક્સ નંબર અમાન્ય છે.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'મોબાઇલ નંબર અમાન્ય છે.';
+$lang['contact_extension_organization_is_invalid'] = 'સંસ્થા અમાન્ય છે.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'પોસ્ટ ઓફિસ બોક્સ અમાન્ય છે.';
+$lang['contact_extension_postal_code_is_invalid'] = 'પોસ્ટલ કોડ અમાન્ય છે.';
+$lang['contact_extension_region_is_invalid'] = 'પ્રદેશ અમાન્ય છે.';
+$lang['contact_extension_room_number_is_invalid'] = 'રૂમ નંબર અમાન્ય છે.';
+$lang['contact_extension_street_is_invalid'] = 'સ્ટ્રીટ અમાન્ય છે.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'ટેલિફોન નંબર અમાન્ય છે.';
+$lang['contact_extension_unit_is_invalid'] = 'એકમ અમાન્ય છે.';
