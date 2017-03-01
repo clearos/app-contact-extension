@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'The Hafðu Extension framlengir skrá með notandi upplýsingar svo sem símanúmer, farsíma og heimilisfang.';
+$lang['contact_extension_app_name'] = 'Viltu samband við Framlenging';
+$lang['contact_extension_contact_account_extension'] = 'Viltu samband við Account Extension';
+$lang['contact_extension_contact'] = 'Viltu samband við';
+$lang['contact_extension_city'] = 'Borg';
+$lang['contact_extension_country'] = 'Land';
+$lang['contact_extension_fax_number'] = 'Fax Number';
+$lang['contact_extension_mobile_number'] = 'Farsímanúmer';
+$lang['contact_extension_organization'] = 'skipulag';
+$lang['contact_extension_postal_code'] = 'póstnúmer';
+$lang['contact_extension_post_office_box'] = 'Pósti Office Box';
+$lang['contact_extension_region'] = 'Region';
+$lang['contact_extension_room_number'] = 'Herbergisnúmer';
+$lang['contact_extension_street'] = 'Street';
+$lang['contact_extension_telephone_number'] = 'Símanúmer';
+$lang['contact_extension_unit'] = 'Unit';
+$lang['contact_extension_city_is_invalid'] = 'City er ógilt.';
+$lang['contact_extension_country_is_invalid'] = 'Country er ógilt.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Faxnúmerið er ógilt.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobile er ógilt.';
+$lang['contact_extension_organization_is_invalid'] = 'Organization er ógilt.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Pósthús kassi er ógilt.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Póstnúmer er ógildur.';
+$lang['contact_extension_region_is_invalid'] = 'Svæðið er ógilt.';
+$lang['contact_extension_room_number_is_invalid'] = 'Room er ógilt.';
+$lang['contact_extension_street_is_invalid'] = 'Street er ógilt.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Símanúmer er ógilt.';
+$lang['contact_extension_unit_is_invalid'] = 'Eining er ógilt.';
