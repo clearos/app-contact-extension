@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'El contacte d&#39;extensió s&#39;estén directori amb la informació de contacte de l&#39;usuari, com ara número de telèfon, mòbil, i la direcció.';
+$lang['contact_extension_app_name'] = 'contacte Extensió';
+$lang['contact_extension_contact_account_extension'] = 'Contacte Extensió del compte';
+$lang['contact_extension_contact'] = 'Contacte';
+$lang['contact_extension_city'] = 'ciutat';
+$lang['contact_extension_country'] = 'país';
+$lang['contact_extension_fax_number'] = 'Nombre de fax';
+$lang['contact_extension_mobile_number'] = 'Número de mòbil';
+$lang['contact_extension_organization'] = 'organització';
+$lang['contact_extension_postal_code'] = 'Codi Postal';
+$lang['contact_extension_post_office_box'] = 'Postal de la taquilla';
+$lang['contact_extension_region'] = 'regió';
+$lang['contact_extension_room_number'] = 'Número d&#39;habitació';
+$lang['contact_extension_street'] = 'carrer';
+$lang['contact_extension_telephone_number'] = 'Número de telèfon';
+$lang['contact_extension_unit'] = 'unitat';
+$lang['contact_extension_city_is_invalid'] = 'Ciutat no és vàlid.';
+$lang['contact_extension_country_is_invalid'] = 'País no és vàlid.';
+$lang['contact_extension_fax_number_is_invalid'] = 'El número de fax és vàlid.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'número de telèfon mòbil no és vàlid.';
+$lang['contact_extension_organization_is_invalid'] = 'Organització no és vàlid.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'apartat de correus no és vàlid.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Codi postal no és vàlid.';
+$lang['contact_extension_region_is_invalid'] = 'Regió no és vàlid.';
+$lang['contact_extension_room_number_is_invalid'] = 'nombre d&#39;habitacions no és vàlid.';
+$lang['contact_extension_street_is_invalid'] = 'El carrer no és vàlid.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'número de telèfon no és vàlid.';
+$lang['contact_extension_unit_is_invalid'] = 'Unitat no és vàlid.';
