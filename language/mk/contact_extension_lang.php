@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Контакт Продолжување протега директориумот со кориснички информации за контакт, како што се телефонски број, мобилен, и адреса.';
+$lang['contact_extension_app_name'] = 'контакт Продолжување';
+$lang['contact_extension_contact_account_extension'] = 'Контакт сметка Продолжување';
+$lang['contact_extension_contact'] = 'контакт';
+$lang['contact_extension_city'] = 'Сити';
+$lang['contact_extension_country'] = 'земја';
+$lang['contact_extension_fax_number'] = 'број на факс';
+$lang['contact_extension_mobile_number'] = 'Мобилен број';
+$lang['contact_extension_organization'] = 'организација';
+$lang['contact_extension_postal_code'] = 'поштенски код';
+$lang['contact_extension_post_office_box'] = 'Поштенски фах';
+$lang['contact_extension_region'] = 'регионот';
+$lang['contact_extension_room_number'] = 'соба број';
+$lang['contact_extension_street'] = 'улица';
+$lang['contact_extension_telephone_number'] = 'Телефонски број';
+$lang['contact_extension_unit'] = 'единица';
+$lang['contact_extension_city_is_invalid'] = 'Градот е валиден.';
+$lang['contact_extension_country_is_invalid'] = 'Земјата не е валиден.';
+$lang['contact_extension_fax_number_is_invalid'] = 'број на факс не е валиден.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Број на мобилен телефон не е валиден.';
+$lang['contact_extension_organization_is_invalid'] = 'Организацијата е валиден.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Поштенски фах не е валиден.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Поштенски код е валиден.';
+$lang['contact_extension_region_is_invalid'] = 'Регионот не е валиден.';
+$lang['contact_extension_room_number_is_invalid'] = 'Соба број не е валиден.';
+$lang['contact_extension_street_is_invalid'] = 'Улица не е валиден.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Повикувачки број не е валиден.';
+$lang['contact_extension_unit_is_invalid'] = 'Единица не е валиден.';
