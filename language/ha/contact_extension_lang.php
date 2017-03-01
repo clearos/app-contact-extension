@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'The Contact Tsawo kara shugabanci da mai amfani da lamba bayani kamar lambar waya, mobile, da address.';
+$lang['contact_extension_app_name'] = 'Contact Tsawo';
+$lang['contact_extension_contact_account_extension'] = 'Contact Account Tsawo';
+$lang['contact_extension_contact'] = 'Contact';
+$lang['contact_extension_city'] = 'City';
+$lang['contact_extension_country'] = 'Country';
+$lang['contact_extension_fax_number'] = 'fax Number';
+$lang['contact_extension_mobile_number'] = 'Lambar salula';
+$lang['contact_extension_organization'] = 'Organization';
+$lang['contact_extension_postal_code'] = 'City Code';
+$lang['contact_extension_post_office_box'] = 'City Office Box';
+$lang['contact_extension_region'] = 'Region';
+$lang['contact_extension_room_number'] = 'Room Number';
+$lang['contact_extension_street'] = 'Street';
+$lang['contact_extension_telephone_number'] = 'Telephone Number';
+$lang['contact_extension_unit'] = 'Unit';
+$lang['contact_extension_city_is_invalid'] = 'City ba daidai ba ne.';
+$lang['contact_extension_country_is_invalid'] = 'Country ba daidai ba ne.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Fax mai lamba ba daidai ba ne.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobile number ba daidai ba ne.';
+$lang['contact_extension_organization_is_invalid'] = 'Organization ba daidai ba ne.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Post office akwatin ba daidai ba ne.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Lambar akwatin gidan waya ba daidai ba ne.';
+$lang['contact_extension_region_is_invalid'] = 'Region ba daidai ba ne.';
+$lang['contact_extension_room_number_is_invalid'] = 'Room number ba daidai ba ne.';
+$lang['contact_extension_street_is_invalid'] = 'Street ba daidai ba ne.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Telephone number ba daidai ba ne.';
+$lang['contact_extension_unit_is_invalid'] = 'Unit ba daidai ba ne.';
