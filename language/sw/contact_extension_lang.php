@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Mawasiliano ugani hadi directory na user mawasiliano ya habari kama vile namba ya simu, simu, na mahali.';
+$lang['contact_extension_app_name'] = 'Mawasiliano ugani';
+$lang['contact_extension_contact_account_extension'] = 'Mawasiliano Akaunti ugani';
+$lang['contact_extension_contact'] = 'Mawasiliano';
+$lang['contact_extension_city'] = 'City';
+$lang['contact_extension_country'] = 'Nchi';
+$lang['contact_extension_fax_number'] = 'Idadi fax';
+$lang['contact_extension_mobile_number'] = 'Namba ya simu ya mkononi';
+$lang['contact_extension_organization'] = 'Shirika';
+$lang['contact_extension_postal_code'] = 'Postal code';
+$lang['contact_extension_post_office_box'] = 'Postal Office Box';
+$lang['contact_extension_region'] = 'Mkoa';
+$lang['contact_extension_room_number'] = 'Idadi chumba';
+$lang['contact_extension_street'] = 'mitaani';
+$lang['contact_extension_telephone_number'] = 'Nambari ya simu';
+$lang['contact_extension_unit'] = 'Unit';
+$lang['contact_extension_city_is_invalid'] = 'City ni batili.';
+$lang['contact_extension_country_is_invalid'] = 'Nchi ni batili.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Namba ya faksi ni batili.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Simu ya mkononi ni batili.';
+$lang['contact_extension_organization_is_invalid'] = 'Shirika ni batili.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Posta sanduku ni batili.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Code posta ni batili.';
+$lang['contact_extension_region_is_invalid'] = 'Mkoa ni batili.';
+$lang['contact_extension_room_number_is_invalid'] = 'Chumba namba ni batili.';
+$lang['contact_extension_street_is_invalid'] = 'Mitaani ni batili.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Namba ya simu ni batili.';
+$lang['contact_extension_unit_is_invalid'] = 'Unit ni batili.';
