@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Yhteyskomiteassa Extension ulottuu hakemistoon käyttäjän yhteystietoja, kuten puhelinnumeron, mobiili, ja osoite.';
+$lang['contact_extension_app_name'] = 'Yhteydenotto Extension';
+$lang['contact_extension_contact_account_extension'] = 'Yhteydenotto Tilin Extension';
+$lang['contact_extension_contact'] = 'Ottaa yhteyttä';
+$lang['contact_extension_city'] = 'Kaupunki';
+$lang['contact_extension_country'] = 'Maa';
+$lang['contact_extension_fax_number'] = 'Faksinumero';
+$lang['contact_extension_mobile_number'] = 'Matkapuhelinnumero';
+$lang['contact_extension_organization'] = 'organisaatio';
+$lang['contact_extension_postal_code'] = 'postinumero';
+$lang['contact_extension_post_office_box'] = 'Postal Office Box';
+$lang['contact_extension_region'] = 'alue';
+$lang['contact_extension_room_number'] = 'Huoneen numero';
+$lang['contact_extension_street'] = 'katu';
+$lang['contact_extension_telephone_number'] = 'Puhelinnumero';
+$lang['contact_extension_unit'] = 'yksikkö';
+$lang['contact_extension_city_is_invalid'] = 'Kaupunki ei kelpaa.';
+$lang['contact_extension_country_is_invalid'] = 'Maa ei kelpaa.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Faksin numero on virheellinen.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Matkapuhelinnumero on virheellinen.';
+$lang['contact_extension_organization_is_invalid'] = 'Organisaatio on virheellinen.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Postilokeron on virheellinen.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Postinumero on virheellinen.';
+$lang['contact_extension_region_is_invalid'] = 'Alue on virheellinen.';
+$lang['contact_extension_room_number_is_invalid'] = 'Huoneen numero on virheellinen.';
+$lang['contact_extension_street_is_invalid'] = 'Street on virheellinen.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Puhelinnumero on virheellinen.';
+$lang['contact_extension_unit_is_invalid'] = 'Yksikkö on virheellinen.';
