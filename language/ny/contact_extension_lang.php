@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'The Contact Extension amawapatsa Directory ndi wosuta zamalumikizidwe monga nambala ya foni, mafoni, ndi adiresi.';
+$lang['contact_extension_app_name'] = 'Contact Extension';
+$lang['contact_extension_contact_account_extension'] = 'Contact Account Extension';
+$lang['contact_extension_contact'] = 'Contact';
+$lang['contact_extension_city'] = 'City';
+$lang['contact_extension_country'] = 'Country';
+$lang['contact_extension_fax_number'] = 'Number fakisi';
+$lang['contact_extension_mobile_number'] = 'Nambala yafoni yam&#39;manja';
+$lang['contact_extension_organization'] = 'Organization';
+$lang['contact_extension_postal_code'] = 'Khodi Yapositi';
+$lang['contact_extension_post_office_box'] = 'Positi Office Box';
+$lang['contact_extension_region'] = 'Region';
+$lang['contact_extension_room_number'] = 'Number chipinda';
+$lang['contact_extension_street'] = 'Street';
+$lang['contact_extension_telephone_number'] = 'telefoni Number';
+$lang['contact_extension_unit'] = 'Unit';
+$lang['contact_extension_city_is_invalid'] = 'City ndi opanda pake.';
+$lang['contact_extension_country_is_invalid'] = 'Dziko ili udzakhala osazindikilika.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Fakisi nambala opanda pake.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobile nambala opanda pake.';
+$lang['contact_extension_organization_is_invalid'] = 'Organization ndi opanda pake.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Positi ofesi bokosi ili udzakhala osazindikilika.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Keyala ndi opanda pake.';
+$lang['contact_extension_region_is_invalid'] = 'Region ndi opanda pake.';
+$lang['contact_extension_room_number_is_invalid'] = 'N ndi opanda pake.';
+$lang['contact_extension_street_is_invalid'] = 'Street ili udzakhala osazindikilika.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Nambala ndi opanda pake.';
+$lang['contact_extension_unit_is_invalid'] = 'Unit ndi opanda pake.';
