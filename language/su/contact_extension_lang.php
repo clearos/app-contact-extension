@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Nu Contact penyuluh ngalegaan nu diréktori jeung inpo kontak pamaké saperti nomer telepon, mobile, jeung alamat.';
+$lang['contact_extension_app_name'] = 'kontak penyuluh';
+$lang['contact_extension_contact_account_extension'] = 'Kontak Akun penyuluh';
+$lang['contact_extension_contact'] = 'kontak';
+$lang['contact_extension_city'] = 'kota';
+$lang['contact_extension_country'] = 'nagara';
+$lang['contact_extension_fax_number'] = 'Number fax';
+$lang['contact_extension_mobile_number'] = 'Nomer hapé';
+$lang['contact_extension_organization'] = 'organisasi';
+$lang['contact_extension_postal_code'] = 'Kodeu Pos';
+$lang['contact_extension_post_office_box'] = 'Pos Box Kantor';
+$lang['contact_extension_region'] = 'daerah';
+$lang['contact_extension_room_number'] = 'Number Room';
+$lang['contact_extension_street'] = 'jalan';
+$lang['contact_extension_telephone_number'] = 'Nomer telepon';
+$lang['contact_extension_unit'] = 'unit';
+$lang['contact_extension_city_is_invalid'] = 'City téh sah.';
+$lang['contact_extension_country_is_invalid'] = 'Nagara anu sah.';
+$lang['contact_extension_fax_number_is_invalid'] = 'jumlah fax téh sah.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'jumlah Mobile téh sah.';
+$lang['contact_extension_organization_is_invalid'] = 'Organisasi anu sah.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'kotak kantor Post téh sah.';
+$lang['contact_extension_postal_code_is_invalid'] = 'kode pos téh sah.';
+$lang['contact_extension_region_is_invalid'] = 'Region téh sah.';
+$lang['contact_extension_room_number_is_invalid'] = 'jumlah Room téh sah.';
+$lang['contact_extension_street_is_invalid'] = 'Street téh sah.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'jumlah Telephone téh sah.';
+$lang['contact_extension_unit_is_invalid'] = 'Unit téh sah.';
