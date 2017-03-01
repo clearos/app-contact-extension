@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Extensia de contact se extinde agenda telefonică cu informații de contact de utilizator, cum ar fi numărul de telefon, mobil, și adresa.';
+$lang['contact_extension_app_name'] = 'Extensie de contact';
+$lang['contact_extension_contact_account_extension'] = 'Extensie de contact Cont';
+$lang['contact_extension_contact'] = 'a lua legatura';
+$lang['contact_extension_city'] = 'Oraș';
+$lang['contact_extension_country'] = 'Țară';
+$lang['contact_extension_fax_number'] = 'Numar de fax';
+$lang['contact_extension_mobile_number'] = 'Numar de mobil';
+$lang['contact_extension_organization'] = 'Organizare';
+$lang['contact_extension_postal_code'] = 'cod postal';
+$lang['contact_extension_post_office_box'] = 'Poștal Box Office';
+$lang['contact_extension_region'] = 'Regiune';
+$lang['contact_extension_room_number'] = 'Numărul de cameră';
+$lang['contact_extension_street'] = 'Stradă';
+$lang['contact_extension_telephone_number'] = 'Număr de telefon';
+$lang['contact_extension_unit'] = 'Unitate';
+$lang['contact_extension_city_is_invalid'] = 'Orașul este nevalid.';
+$lang['contact_extension_country_is_invalid'] = 'Țara este nevalid.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Numărul de fax este nevalid.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Numărul de telefon mobil este nevalid.';
+$lang['contact_extension_organization_is_invalid'] = 'Organizație este nevalid.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Post Office caseta este nevalid.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Codul poștal este nevalid.';
+$lang['contact_extension_region_is_invalid'] = 'Regiunea este nevalid.';
+$lang['contact_extension_room_number_is_invalid'] = 'Numărul camerei este nevalid.';
+$lang['contact_extension_street_is_invalid'] = 'Street este nevalid.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Numărul de telefon este nevalid.';
+$lang['contact_extension_unit_is_invalid'] = 'Unitate este nevalid.';
