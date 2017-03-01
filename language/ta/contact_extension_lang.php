@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'தொடர்பு நீட்டிப்பு தொலைபேசி எண், மொபைல், மற்றும் முகவரி போன்ற பயனர் தொடர்பு தகவல் அடைவு பரவியுள்ளது.';
+$lang['contact_extension_app_name'] = 'தொடர்பு நீட்டிப்பு';
+$lang['contact_extension_contact_account_extension'] = 'தொடர்பு கணக்கு நீட்டிப்பு';
+$lang['contact_extension_contact'] = 'தொடர்பு';
+$lang['contact_extension_city'] = 'சிட்டி';
+$lang['contact_extension_country'] = 'நாடு';
+$lang['contact_extension_fax_number'] = 'தொலைநகல் எண்';
+$lang['contact_extension_mobile_number'] = 'மொபைல் எண்';
+$lang['contact_extension_organization'] = 'அமைப்பு';
+$lang['contact_extension_postal_code'] = 'அஞ்சல் குறியீடு';
+$lang['contact_extension_post_office_box'] = 'தபால் அலுவலகம் பெட்டி';
+$lang['contact_extension_region'] = 'பகுதி';
+$lang['contact_extension_room_number'] = 'அறை எண்';
+$lang['contact_extension_street'] = 'தெரு';
+$lang['contact_extension_telephone_number'] = 'தொலைபேசி எண்';
+$lang['contact_extension_unit'] = 'அலகு';
+$lang['contact_extension_city_is_invalid'] = 'நகரம் தவறானது.';
+$lang['contact_extension_country_is_invalid'] = 'நாடு தவறானது.';
+$lang['contact_extension_fax_number_is_invalid'] = 'தொலைநகல் எண் தவறானது.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'மொபைல் எண் தவறானது.';
+$lang['contact_extension_organization_is_invalid'] = 'அமைப்பு தவறானது.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'தபால் அலுவலகம் பெட்டியில் தவறானது.';
+$lang['contact_extension_postal_code_is_invalid'] = 'அஞ்சல் குறியீடு தவறானது.';
+$lang['contact_extension_region_is_invalid'] = 'மண்டலம் தவறானது.';
+$lang['contact_extension_room_number_is_invalid'] = 'அறை எண் தவறானது.';
+$lang['contact_extension_street_is_invalid'] = 'தெரு தவறானது.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'தொலைபேசி எண் தவறானது.';
+$lang['contact_extension_unit_is_invalid'] = 'அலகு தவறானது.';
