@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'L&#39;estensione di contatto si estende la directory con le informazioni di contatto dell&#39;utente come ad esempio il numero di telefono, cellulare, e indirizzo.';
+$lang['contact_extension_app_name'] = 'Contatto Estensione';
+$lang['contact_extension_contact_account_extension'] = 'Contatto Conto Extension';
+$lang['contact_extension_contact'] = 'contatto';
+$lang['contact_extension_city'] = 'Città';
+$lang['contact_extension_country'] = 'Nazione';
+$lang['contact_extension_fax_number'] = 'Numero di fax';
+$lang['contact_extension_mobile_number'] = 'Numero di cellulare';
+$lang['contact_extension_organization'] = 'Organizzazione';
+$lang['contact_extension_postal_code'] = 'codice postale';
+$lang['contact_extension_post_office_box'] = 'Postale Box Office';
+$lang['contact_extension_region'] = 'Regione';
+$lang['contact_extension_room_number'] = 'Numero di Camera';
+$lang['contact_extension_street'] = 'strada';
+$lang['contact_extension_telephone_number'] = 'Numero di telefono';
+$lang['contact_extension_unit'] = 'Unità';
+$lang['contact_extension_city_is_invalid'] = 'Città non è valido.';
+$lang['contact_extension_country_is_invalid'] = 'Paese non è valido.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Numero di fax non è valido.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'numero di cellulare non è valido.';
+$lang['contact_extension_organization_is_invalid'] = 'L&#39;organizzazione è valido.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'casella postale non è valido.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Codice postale non è valido.';
+$lang['contact_extension_region_is_invalid'] = 'Regione non è valido.';
+$lang['contact_extension_room_number_is_invalid'] = 'numero della camera non è valido.';
+$lang['contact_extension_street_is_invalid'] = 'Street è valido.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Numero di telefono non è valido.';
+$lang['contact_extension_unit_is_invalid'] = 'Unità non è valido.';
