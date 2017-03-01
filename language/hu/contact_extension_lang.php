@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'A Kapcsolat Extension kiterjeszti a könyvtár felhasználói kapcsolattartási információkat, például a telefonszámot, a mobil és a címét.';
+$lang['contact_extension_app_name'] = 'Kapcsolat Extension';
+$lang['contact_extension_contact_account_extension'] = 'Kapcsolat Fiókbővítmény';
+$lang['contact_extension_contact'] = 'Kapcsolatba lépni';
+$lang['contact_extension_city'] = 'Város';
+$lang['contact_extension_country'] = 'Ország';
+$lang['contact_extension_fax_number'] = 'Faxszámra';
+$lang['contact_extension_mobile_number'] = 'Mobil szám';
+$lang['contact_extension_organization'] = 'Szervezet';
+$lang['contact_extension_postal_code'] = 'Irányítószám';
+$lang['contact_extension_post_office_box'] = 'Postai Office Box';
+$lang['contact_extension_region'] = 'Vidék';
+$lang['contact_extension_room_number'] = 'Szoba szám';
+$lang['contact_extension_street'] = 'utca';
+$lang['contact_extension_telephone_number'] = 'Telefonszám';
+$lang['contact_extension_unit'] = 'Egység';
+$lang['contact_extension_city_is_invalid'] = 'Város érvénytelen.';
+$lang['contact_extension_country_is_invalid'] = 'Ország érvénytelen.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Fax szám érvénytelen.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobile szám érvénytelen.';
+$lang['contact_extension_organization_is_invalid'] = 'Szervezet érvénytelen.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Postafiók érvénytelen.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Irányítószám érvénytelen.';
+$lang['contact_extension_region_is_invalid'] = 'Region érvénytelen.';
+$lang['contact_extension_room_number_is_invalid'] = 'Szoba szám érvénytelen.';
+$lang['contact_extension_street_is_invalid'] = 'Street érvénytelen.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Telefonszám érvénytelen.';
+$lang['contact_extension_unit_is_invalid'] = 'Egység érvénytelen.';
