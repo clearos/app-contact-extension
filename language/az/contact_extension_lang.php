@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Əlaqə Extension telefon nömrəsi, mobil, və ünvanı kimi istifadəçi əlaqə məlumatı ilə kataloq uzanır.';
+$lang['contact_extension_app_name'] = 'Əlaqə Extension';
+$lang['contact_extension_contact_account_extension'] = 'Əlaqə Account Extension';
+$lang['contact_extension_contact'] = 'əlaqə';
+$lang['contact_extension_city'] = 'şəhər';
+$lang['contact_extension_country'] = 'ölkə';
+$lang['contact_extension_fax_number'] = 'Faks nömrəsi';
+$lang['contact_extension_mobile_number'] = 'Mobil nömrə';
+$lang['contact_extension_organization'] = 'Təşkilat';
+$lang['contact_extension_postal_code'] = 'Poçt kodu';
+$lang['contact_extension_post_office_box'] = 'Poçt Office Box';
+$lang['contact_extension_region'] = 'rayon';
+$lang['contact_extension_room_number'] = 'Otaq nömrəsi';
+$lang['contact_extension_street'] = 'küçə';
+$lang['contact_extension_telephone_number'] = 'Telefon nömrəsi';
+$lang['contact_extension_unit'] = 'vahid';
+$lang['contact_extension_city_is_invalid'] = 'Şəhər yanlışdır.';
+$lang['contact_extension_country_is_invalid'] = 'Ölkə yanlışdır.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Faks nömrəsi yanlışdır.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobile nömrəsi yanlışdır.';
+$lang['contact_extension_organization_is_invalid'] = 'Organization yanlışdır.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Post Office Box yanlışdır.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Saxlayın Kodu yanlışdır.';
+$lang['contact_extension_region_is_invalid'] = 'Region yanlışdır.';
+$lang['contact_extension_room_number_is_invalid'] = 'Room nömrəsi yanlışdır.';
+$lang['contact_extension_street_is_invalid'] = 'Street yanlışdır.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Telefon nömrəsi yanlışdır.';
+$lang['contact_extension_unit_is_invalid'] = 'Unit yanlışdır.';
