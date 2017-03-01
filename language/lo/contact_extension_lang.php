@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'ສົ່ງເສີມການຕິດຕໍ່ຂະຫຍາຍລະບົບຂໍ້ມູນຕິດຕໍ່ຜູ້ໃຊ້ເຊັ່ນ: ເບີໂທລະສັບ, ໂທລະສັບມືຖື, ແລະທີ່ຢູ່.';
+$lang['contact_extension_app_name'] = 'ຕິດຕໍ່ການຂະຫຍາຍ';
+$lang['contact_extension_contact_account_extension'] = 'ການຂະຫຍາຍບັນຊີຕິດຕໍ່';
+$lang['contact_extension_contact'] = 'ການຕິດຕໍ່';
+$lang['contact_extension_city'] = 'ເມືອງ';
+$lang['contact_extension_country'] = 'ປະເທດ';
+$lang['contact_extension_fax_number'] = 'ຫມາຍເລກໂທລະສານ';
+$lang['contact_extension_mobile_number'] = 'ເບີ​ໂທລະ​ສັບ';
+$lang['contact_extension_organization'] = 'ອົງການຈັດຕັ້ງ';
+$lang['contact_extension_postal_code'] = 'ລະ​ຫັດ​ໄປ​ສະ​ນີ';
+$lang['contact_extension_post_office_box'] = 'ໄປສະນີ Box Office';
+$lang['contact_extension_region'] = 'ພູມິພາກ';
+$lang['contact_extension_room_number'] = 'ຈໍານວນຫ້ອງ';
+$lang['contact_extension_street'] = 'ຖະຫນົນ';
+$lang['contact_extension_telephone_number'] = 'ເບີ​ໂທລະ​ສັບ';
+$lang['contact_extension_unit'] = 'ຫນ່ວຍບໍລິການ';
+$lang['contact_extension_city_is_invalid'] = 'ນະຄອນແມ່ນບໍ່ຖືກຕ້ອງ.';
+$lang['contact_extension_country_is_invalid'] = 'ປະເທດບໍ່ຖືກຕ້ອງ.';
+$lang['contact_extension_fax_number_is_invalid'] = 'ຫມາຍເລກໂທລະແມ່ນບໍ່ຖືກຕ້ອງ.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'ຈໍານວນໂທລະສັບມືຖືແມ່ນບໍ່ຖືກຕ້ອງ.';
+$lang['contact_extension_organization_is_invalid'] = 'ອົງການຈັດຕັ້ງແມ່ນບໍ່ຖືກຕ້ອງ.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Post ຫ້ອງການຫ້ອງແມ່ນບໍ່ຖືກຕ້ອງ.';
+$lang['contact_extension_postal_code_is_invalid'] = 'ລະຫັດໄປສະນີແມ່ນບໍ່ຖືກຕ້ອງ.';
+$lang['contact_extension_region_is_invalid'] = 'ພື້ນທີ່ທີ່ບໍ່ຖືກຕ້ອງ.';
+$lang['contact_extension_room_number_is_invalid'] = 'ຈໍານວນຫ້ອງແມ່ນບໍ່ຖືກຕ້ອງ.';
+$lang['contact_extension_street_is_invalid'] = 'ຕາມຖະຫນົນແມ່ນບໍ່ຖືກຕ້ອງ.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'ຫມາຍເລກໂທລະສັບບໍ່ຖືກຕ້ອງ.';
+$lang['contact_extension_unit_is_invalid'] = 'ຫນ່ວຍບໍລິການບໍ່ຖືກຕ້ອງ.';
