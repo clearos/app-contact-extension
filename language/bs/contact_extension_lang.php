@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Kontakt Extension proširuje direktorij informacije korisnik kontaktu sa, kao što su broj telefona, mobilnog, i adresu.';
+$lang['contact_extension_app_name'] = 'Kontakt Extension';
+$lang['contact_extension_contact_account_extension'] = 'Kontakt Nalog Extension';
+$lang['contact_extension_contact'] = 'kontakt';
+$lang['contact_extension_city'] = 'grad';
+$lang['contact_extension_country'] = 'zemlja';
+$lang['contact_extension_fax_number'] = 'Fax';
+$lang['contact_extension_mobile_number'] = 'Broj mobitela';
+$lang['contact_extension_organization'] = 'organizacija';
+$lang['contact_extension_postal_code'] = 'poštanski broj';
+$lang['contact_extension_post_office_box'] = 'Poštanski ured Box';
+$lang['contact_extension_region'] = 'regija';
+$lang['contact_extension_room_number'] = 'Broj sobe';
+$lang['contact_extension_street'] = 'ulica';
+$lang['contact_extension_telephone_number'] = 'Broj telefona';
+$lang['contact_extension_unit'] = 'jedinica';
+$lang['contact_extension_city_is_invalid'] = 'Grad je nevažeći.';
+$lang['contact_extension_country_is_invalid'] = 'Zemlja je nevažeći.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Broj faksa je nevažeća.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobitel je nevažeća.';
+$lang['contact_extension_organization_is_invalid'] = 'Organizacija je nevažeći.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Pošta kutija je nevažeća.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Poštanski broj je nevažeći.';
+$lang['contact_extension_region_is_invalid'] = 'Regija je nevažeći.';
+$lang['contact_extension_room_number_is_invalid'] = 'Broj soba je nevažeća.';
+$lang['contact_extension_street_is_invalid'] = 'Ulica je nevažeći.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Telefonski broj je nevažeći.';
+$lang['contact_extension_unit_is_invalid'] = 'Jedinica je nevažeći.';
