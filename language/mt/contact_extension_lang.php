@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Il Estensjoni Kuntatt testendi l-direttorju ma &#39;informazzjoni ta&#39; kuntatt utent bħal numru tat-telefon, mobbli, u l-indirizz.';
+$lang['contact_extension_app_name'] = 'kuntatt Estensjoni';
+$lang['contact_extension_contact_account_extension'] = 'Kuntatt Kont Estensjoni';
+$lang['contact_extension_contact'] = 'kuntatt';
+$lang['contact_extension_city'] = 'belt';
+$lang['contact_extension_country'] = 'pajjiż';
+$lang['contact_extension_fax_number'] = 'Numru tal-fax';
+$lang['contact_extension_mobile_number'] = 'In-numru tal-mobile';
+$lang['contact_extension_organization'] = 'organizzazzjoni';
+$lang['contact_extension_postal_code'] = 'Kodiċi postali';
+$lang['contact_extension_post_office_box'] = 'Posta Uffiċċju Box';
+$lang['contact_extension_region'] = 'reġjun';
+$lang['contact_extension_room_number'] = 'Numru kamra';
+$lang['contact_extension_street'] = 'triq';
+$lang['contact_extension_telephone_number'] = 'Numru tat-telefon';
+$lang['contact_extension_unit'] = 'unità';
+$lang['contact_extension_city_is_invalid'] = 'City hija invalida.';
+$lang['contact_extension_country_is_invalid'] = 'Pajjiż huwa invalidu.';
+$lang['contact_extension_fax_number_is_invalid'] = 'numru tal-fax huwa invalidu.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'numru tal-mowbajl huwa invalidu.';
+$lang['contact_extension_organization_is_invalid'] = 'Organizzazzjoni huwa invalidu.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'kaxxa postali huwa invalidu.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Kodiċi postali huwa invalidu.';
+$lang['contact_extension_region_is_invalid'] = 'Reġjun huwa invalidu.';
+$lang['contact_extension_room_number_is_invalid'] = 'Numru kamra huwa invalidu.';
+$lang['contact_extension_street_is_invalid'] = 'Triq huwa invalidu.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Numru tat-telefon huwa invalidu.';
+$lang['contact_extension_unit_is_invalid'] = 'Unità hija invalida.';
