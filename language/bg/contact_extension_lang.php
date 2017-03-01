@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Контактната Удължаване разширява директория с информация за потребителя контакт, като телефонен номер, мобилен, и адрес.';
+$lang['contact_extension_app_name'] = 'Свържи Extension';
+$lang['contact_extension_contact_account_extension'] = 'Свържи профил Extension';
+$lang['contact_extension_contact'] = 'контакт';
+$lang['contact_extension_city'] = 'град';
+$lang['contact_extension_country'] = 'Държава';
+$lang['contact_extension_fax_number'] = 'Номер на факс';
+$lang['contact_extension_mobile_number'] = 'Мобилен номер';
+$lang['contact_extension_organization'] = 'организация';
+$lang['contact_extension_postal_code'] = 'пощенски код';
+$lang['contact_extension_post_office_box'] = 'Пощенска кутия в';
+$lang['contact_extension_region'] = 'област';
+$lang['contact_extension_room_number'] = 'Номер на стая';
+$lang['contact_extension_street'] = 'улица';
+$lang['contact_extension_telephone_number'] = 'Телефонен номер';
+$lang['contact_extension_unit'] = 'Мерна единица';
+$lang['contact_extension_city_is_invalid'] = 'Сити е невалиден.';
+$lang['contact_extension_country_is_invalid'] = 'Държава е невалиден.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Номер на факс е невалиден.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobile номер е невалиден.';
+$lang['contact_extension_organization_is_invalid'] = 'Организация е невалиден.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Пощенска кутия е невалиден.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Пощенски код е невалиден.';
+$lang['contact_extension_region_is_invalid'] = 'Област е невалиден.';
+$lang['contact_extension_room_number_is_invalid'] = 'Стая номер е невалиден.';
+$lang['contact_extension_street_is_invalid'] = 'Улица е невалиден.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Телефонен номер е невалиден.';
+$lang['contact_extension_unit_is_invalid'] = 'Unit е невалиден.';
