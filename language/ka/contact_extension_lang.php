@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'საკონტაქტო გაფართოება ვრცელდება დირექტორია შესახებ საკონტაქტო ინფორმაცია, როგორიცაა ტელეფონის ნომერი, მობილური და მისამართზე.';
+$lang['contact_extension_app_name'] = 'საკონტაქტო გაფართოება';
+$lang['contact_extension_contact_account_extension'] = 'საკონტაქტო ანგარიშის გაფართოება';
+$lang['contact_extension_contact'] = 'კონტაქტი';
+$lang['contact_extension_city'] = 'ქალაქი';
+$lang['contact_extension_country'] = 'ქვეყანა';
+$lang['contact_extension_fax_number'] = 'ფაქსის ნომერი';
+$lang['contact_extension_mobile_number'] = 'მობილურის ნომერი';
+$lang['contact_extension_organization'] = 'ორგანიზაცია';
+$lang['contact_extension_postal_code'] = 'საფოსტო ინდექსი';
+$lang['contact_extension_post_office_box'] = 'საფოსტო Office Box';
+$lang['contact_extension_region'] = 'რეგიონი';
+$lang['contact_extension_room_number'] = 'ოთახის ნომერი';
+$lang['contact_extension_street'] = 'Street';
+$lang['contact_extension_telephone_number'] = 'ტელეფონის ნომერი';
+$lang['contact_extension_unit'] = 'განყოფილება';
+$lang['contact_extension_city_is_invalid'] = 'ქალაქი არასწორია.';
+$lang['contact_extension_country_is_invalid'] = 'ქვეყანა არასწორია.';
+$lang['contact_extension_fax_number_is_invalid'] = 'ფაქსის ნომერი არასწორია.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'მობილური ნომერი არასწორია.';
+$lang['contact_extension_organization_is_invalid'] = 'ორგანიზაცია არასწორია.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'ყუთის არასწორია.';
+$lang['contact_extension_postal_code_is_invalid'] = 'საფოსტო კოდი არასწორია.';
+$lang['contact_extension_region_is_invalid'] = 'რეგიონი არასწორია.';
+$lang['contact_extension_room_number_is_invalid'] = 'ოთახის ნომერი არასწორია.';
+$lang['contact_extension_street_is_invalid'] = 'Street არასწორია.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'ტელეფონის ნომერი არასწორია.';
+$lang['contact_extension_unit_is_invalid'] = 'განყოფილება არასწორია.';
