@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'An Leathnú Teagmhála Síneann an t-eolaire le heolas teagmhála úsáideoirí den sórt sin mar uimhir theileafóin, póca, agus do sheoladh.';
+$lang['contact_extension_app_name'] = 'Síneadh teagmháil';
+$lang['contact_extension_contact_account_extension'] = 'Síneadh Déan Teagmháil';
+$lang['contact_extension_contact'] = 'Déan teagmháil';
+$lang['contact_extension_city'] = 'Cathair';
+$lang['contact_extension_country'] = 'Country';
+$lang['contact_extension_fax_number'] = 'Uimhir Faics';
+$lang['contact_extension_mobile_number'] = 'Uimhir Fón póca';
+$lang['contact_extension_organization'] = 'Eagraíocht';
+$lang['contact_extension_postal_code'] = 'Cód Poist';
+$lang['contact_extension_post_office_box'] = 'Box Office Poist';
+$lang['contact_extension_region'] = 'Réigiún';
+$lang['contact_extension_room_number'] = 'Uimhir seomra';
+$lang['contact_extension_street'] = 'Sráid';
+$lang['contact_extension_telephone_number'] = 'Uimhir ghutháin';
+$lang['contact_extension_unit'] = 'Aonad';
+$lang['contact_extension_city_is_invalid'] = 'Is Cathair neamhbhailí.';
+$lang['contact_extension_country_is_invalid'] = 'Is Country neamhbhailí.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Is uimhir facs neamhbhailí.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Is uimhir Mobile neamhbhailí.';
+$lang['contact_extension_organization_is_invalid'] = 'Is eagraíocht neamhbhailí.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Is bosca oifig an phoist neamhbhailí.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Is cód poist neamhbhailí.';
+$lang['contact_extension_region_is_invalid'] = 'Is réigiún neamhbhailí.';
+$lang['contact_extension_room_number_is_invalid'] = 'Is uimhir seomra neamhbhailí.';
+$lang['contact_extension_street_is_invalid'] = 'Is Street neamhbhailí.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Is uimhir ghutháin neamhbhailí.';
+$lang['contact_extension_unit_is_invalid'] = 'Tá an tAonad neamhbhailí.';
