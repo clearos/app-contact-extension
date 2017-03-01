@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Kontaktgrupa pagarināšana paplašina Directory lietotāju kontaktinformāciju ar, piemēram, tālruņa numuru, mobilā un adresi.';
+$lang['contact_extension_app_name'] = 'Kontaktinformācija Extension';
+$lang['contact_extension_contact_account_extension'] = 'Kontaktinformācija Account Extension';
+$lang['contact_extension_contact'] = 'kontakts';
+$lang['contact_extension_city'] = 'pilsēta';
+$lang['contact_extension_country'] = 'valsts';
+$lang['contact_extension_fax_number'] = 'faksa numurs';
+$lang['contact_extension_mobile_number'] = 'Mobilā telefona numurs';
+$lang['contact_extension_organization'] = 'organizēšana';
+$lang['contact_extension_postal_code'] = 'Pasta indekss';
+$lang['contact_extension_post_office_box'] = 'Pasta Office Box';
+$lang['contact_extension_region'] = 'apgabals';
+$lang['contact_extension_room_number'] = 'Istabas numurs';
+$lang['contact_extension_street'] = 'iela';
+$lang['contact_extension_telephone_number'] = 'Telefona numurs';
+$lang['contact_extension_unit'] = 'vienība';
+$lang['contact_extension_city_is_invalid'] = 'Pilsēta ir nederīgs.';
+$lang['contact_extension_country_is_invalid'] = 'Valsts ir nederīgs.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Faksa numurs ir nederīgs.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobilā tālruņa numurs ir nederīgs.';
+$lang['contact_extension_organization_is_invalid'] = 'Organizācija ir nederīgs.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Pasts kaste ir nederīgs.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Pasta kods ir nederīgs.';
+$lang['contact_extension_region_is_invalid'] = 'Reģions ir nederīgs.';
+$lang['contact_extension_room_number_is_invalid'] = 'Istabu skaits ir nederīgs.';
+$lang['contact_extension_street_is_invalid'] = 'Iela ir nederīgs.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Tālruņa numurs ir nederīgs.';
+$lang['contact_extension_unit_is_invalid'] = 'Vienība ir nederīgs.';
