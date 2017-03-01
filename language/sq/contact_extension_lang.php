@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Zgjerimi Kontakt shtrihet në dosjen me informacionin e kontaktit përdoruesit të tilla si numri i telefonit, celularit dhe adresën.';
+$lang['contact_extension_app_name'] = 'Kontakt Extension';
+$lang['contact_extension_contact_account_extension'] = 'Kontakt Llogaria Extension';
+$lang['contact_extension_contact'] = 'kontakt';
+$lang['contact_extension_city'] = 'qytet';
+$lang['contact_extension_country'] = 'vend';
+$lang['contact_extension_fax_number'] = 'Numri Fax';
+$lang['contact_extension_mobile_number'] = 'Numri Mobile';
+$lang['contact_extension_organization'] = 'organizatë';
+$lang['contact_extension_postal_code'] = 'Kodi Postar';
+$lang['contact_extension_post_office_box'] = 'Postal Office Box';
+$lang['contact_extension_region'] = 'Rajon';
+$lang['contact_extension_room_number'] = 'Numri i dhomes';
+$lang['contact_extension_street'] = 'rrugë';
+$lang['contact_extension_telephone_number'] = 'Numër telefoni';
+$lang['contact_extension_unit'] = 'njësi';
+$lang['contact_extension_city_is_invalid'] = 'Qyteti është i pavlefshëm.';
+$lang['contact_extension_country_is_invalid'] = 'Vendi është i pavlefshëm.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Numri Fax është i pavlefshëm.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Numri Mobile është i pavlefshëm.';
+$lang['contact_extension_organization_is_invalid'] = 'Organizata është e pavlefshme.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'box Post Zyra është e pavlefshme.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Kodi postar është i pavlefshëm.';
+$lang['contact_extension_region_is_invalid'] = 'Rajoni është i pavlefshëm.';
+$lang['contact_extension_room_number_is_invalid'] = 'Dhoma është i pavlefshëm.';
+$lang['contact_extension_street_is_invalid'] = 'Rruga është e pavlefshme.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Numri i telefonit është i pavlefshëm.';
+$lang['contact_extension_unit_is_invalid'] = 'Njësia është e pavlefshme.';
