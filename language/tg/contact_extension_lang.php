@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Дар Тамос Тамдиди тамдид феҳрист бо маълумот барои тамос бо истифодабаранда ба монанди рақами телефони мобилӣ, ва суроғаи.';
+$lang['contact_extension_app_name'] = 'Тамос Тамдиди';
+$lang['contact_extension_contact_account_extension'] = 'Тамос Ҳисоби Тамдиди';
+$lang['contact_extension_contact'] = 'Тамос';
+$lang['contact_extension_city'] = 'шаҳр';
+$lang['contact_extension_country'] = 'кишвар';
+$lang['contact_extension_fax_number'] = 'Number Fax';
+$lang['contact_extension_mobile_number'] = 'Рақами мобилӣ';
+$lang['contact_extension_organization'] = 'ташкилот';
+$lang['contact_extension_postal_code'] = 'Рамзи почта';
+$lang['contact_extension_post_office_box'] = 'Почта Дафтари Блоки';
+$lang['contact_extension_region'] = 'вилоят';
+$lang['contact_extension_room_number'] = 'Number Room';
+$lang['contact_extension_street'] = 'кӯча';
+$lang['contact_extension_telephone_number'] = 'Number Телефон';
+$lang['contact_extension_unit'] = 'Шӯъбаи';
+$lang['contact_extension_city_is_invalid'] = 'Сити нодуруст аст.';
+$lang['contact_extension_country_is_invalid'] = 'Кишвар нодуруст аст.';
+$lang['contact_extension_fax_number_is_invalid'] = 'рақами факс нодуруст аст.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'рақами мобилӣ нодуруст аст.';
+$lang['contact_extension_organization_is_invalid'] = 'Ташкилоти нодуруст аст.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'қуттии дафтари Post нодуруст аст.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Рамзи почта нодуруст аст.';
+$lang['contact_extension_region_is_invalid'] = 'Минтаќањои нодуруст аст.';
+$lang['contact_extension_room_number_is_invalid'] = 'рақами Room нодуруст аст.';
+$lang['contact_extension_street_is_invalid'] = 'Кӯча нодуруст аст.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Рақами телефон нодуруст аст.';
+$lang['contact_extension_unit_is_invalid'] = 'Шўъбаи нодуруст аст.';
