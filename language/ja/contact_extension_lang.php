@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = '連絡先内線は、電話番号、モバイル、およびアドレスなどのユーザーの連絡先情報を使用してディレクトリを拡張します。';
+$lang['contact_extension_app_name'] = '連絡拡張';
+$lang['contact_extension_contact_account_extension'] = '連絡先アカウント拡張';
+$lang['contact_extension_contact'] = '接触';
+$lang['contact_extension_city'] = 'シティ';
+$lang['contact_extension_country'] = '国';
+$lang['contact_extension_fax_number'] = 'ファクス番号';
+$lang['contact_extension_mobile_number'] = '携帯電話番号';
+$lang['contact_extension_organization'] = '組織';
+$lang['contact_extension_postal_code'] = '郵便番号';
+$lang['contact_extension_post_office_box'] = '郵便オフィスボックス';
+$lang['contact_extension_region'] = '領域';
+$lang['contact_extension_room_number'] = '部屋番号';
+$lang['contact_extension_street'] = '通り';
+$lang['contact_extension_telephone_number'] = '電話番号';
+$lang['contact_extension_unit'] = '単位';
+$lang['contact_extension_city_is_invalid'] = '市は無効です。';
+$lang['contact_extension_country_is_invalid'] = '国が無効です。';
+$lang['contact_extension_fax_number_is_invalid'] = 'ファックス番号は無効です。';
+$lang['contact_extension_mobile_number_is_invalid'] = '携帯電話番号が無効です。';
+$lang['contact_extension_organization_is_invalid'] = '組織が無効です。';
+$lang['contact_extension_post_office_box_is_invalid'] = '私書箱は無効です。';
+$lang['contact_extension_postal_code_is_invalid'] = '郵便番号が無効です。';
+$lang['contact_extension_region_is_invalid'] = '地域が無効です。';
+$lang['contact_extension_room_number_is_invalid'] = '部屋番号が無効です。';
+$lang['contact_extension_street_is_invalid'] = 'ストリートは無効です。';
+$lang['contact_extension_telephone_number_is_invalid'] = '電話番号は無効です。';
+$lang['contact_extension_unit_is_invalid'] = 'ユニットは無効です。';
