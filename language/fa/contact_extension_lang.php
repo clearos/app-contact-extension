@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'تماس با فرمت گسترش دایرکتوری با اطلاعات تماس کاربران مانند شماره تلفن، تلفن همراه، و آدرس.';
+$lang['contact_extension_app_name'] = 'تماس با فرمت';
+$lang['contact_extension_contact_account_extension'] = 'تماس با حساب فرمت';
+$lang['contact_extension_contact'] = 'تماس';
+$lang['contact_extension_city'] = 'شهرستان';
+$lang['contact_extension_country'] = 'کشور';
+$lang['contact_extension_fax_number'] = 'شماره فکس';
+$lang['contact_extension_mobile_number'] = 'شماره موبایل';
+$lang['contact_extension_organization'] = 'سازمان';
+$lang['contact_extension_postal_code'] = 'کد پستی';
+$lang['contact_extension_post_office_box'] = 'پستی دفتر جعبه';
+$lang['contact_extension_region'] = 'منطقه';
+$lang['contact_extension_room_number'] = 'شماره اتاق';
+$lang['contact_extension_street'] = 'خیابان';
+$lang['contact_extension_telephone_number'] = 'شماره تلفن';
+$lang['contact_extension_unit'] = 'واحد';
+$lang['contact_extension_city_is_invalid'] = 'شهرستان نامعتبر است.';
+$lang['contact_extension_country_is_invalid'] = 'کشور نامعتبر است.';
+$lang['contact_extension_fax_number_is_invalid'] = 'شماره فکس نامعتبر است.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'شماره تلفن همراه نامعتبر است.';
+$lang['contact_extension_organization_is_invalid'] = 'سازمان نامعتبر است.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'صندوق پستی نامعتبر است.';
+$lang['contact_extension_postal_code_is_invalid'] = 'کد پستی نامعتبر است.';
+$lang['contact_extension_region_is_invalid'] = 'منطقه نامعتبر است.';
+$lang['contact_extension_room_number_is_invalid'] = 'تعداد اتاق نامعتبر است.';
+$lang['contact_extension_street_is_invalid'] = 'خیابان نامعتبر است.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'شماره تلفن نامعتبر است.';
+$lang['contact_extension_unit_is_invalid'] = 'واحد نامعتبر است.';
