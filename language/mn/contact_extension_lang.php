@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Холбоо барих Өргөтгөл гэх утасны дугаар, гар утас,, хаяг гэх мэт хэрэглэгчийн холбоо барих мэдээлэл санг өргөтгөн.';
+$lang['contact_extension_app_name'] = 'Холбоо барих Өргөтгөл';
+$lang['contact_extension_contact_account_extension'] = 'Холбоо барих Дансны Өргөтгөл';
+$lang['contact_extension_contact'] = 'Холбоо барих';
+$lang['contact_extension_city'] = 'City';
+$lang['contact_extension_country'] = 'Улс';
+$lang['contact_extension_fax_number'] = 'факс тоо';
+$lang['contact_extension_mobile_number'] = 'Гар утасны дугаар';
+$lang['contact_extension_organization'] = 'Байгууллага';
+$lang['contact_extension_postal_code'] = 'Шуудангийн код';
+$lang['contact_extension_post_office_box'] = 'Шуудангийн албан Шигтгээ';
+$lang['contact_extension_region'] = 'бүс нутаг';
+$lang['contact_extension_room_number'] = 'Өрөөний дугаар';
+$lang['contact_extension_street'] = 'гудамжны';
+$lang['contact_extension_telephone_number'] = 'Утасны дугаар';
+$lang['contact_extension_unit'] = 'Нэгж';
+$lang['contact_extension_city_is_invalid'] = 'Хот хүчин төгөлдөр бус байна.';
+$lang['contact_extension_country_is_invalid'] = 'Улс хүчин төгөлдөр бус байна.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Факсын дугаар хүчингүй байна.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Гар утасны дугаар буруу байна.';
+$lang['contact_extension_organization_is_invalid'] = 'Байгууллага хүчин төгөлдөр бус байна.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Шуудангийн хайрцаг хүчин төгөлдөр бус байна.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Шуудангийн код хүчингүй байна.';
+$lang['contact_extension_region_is_invalid'] = 'Бүс нутгийн хүчин төгөлдөр бус байна.';
+$lang['contact_extension_room_number_is_invalid'] = 'Өрөөний тоо хүчин төгөлдөр бус байна.';
+$lang['contact_extension_street_is_invalid'] = 'Гудамж хүчин төгөлдөр бус байна.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Утасны дугаар буруу байна.';
+$lang['contact_extension_unit_is_invalid'] = 'Нэгж хүчин төгөлдөр бус байна.';
