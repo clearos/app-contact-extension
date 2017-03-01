@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Контакт наставак протеже директоријум са корисничким контакт информације као што су број телефона, мобилног телефона и адресу.';
+$lang['contact_extension_app_name'] = 'Контакт Проширење';
+$lang['contact_extension_contact_account_extension'] = 'Контакт рачун Продужење';
+$lang['contact_extension_contact'] = 'Контакт';
+$lang['contact_extension_city'] = 'град';
+$lang['contact_extension_country'] = 'земља';
+$lang['contact_extension_fax_number'] = 'Број факса';
+$lang['contact_extension_mobile_number'] = 'Број мобилног телефона';
+$lang['contact_extension_organization'] = 'организација';
+$lang['contact_extension_postal_code'] = 'поштански код';
+$lang['contact_extension_post_office_box'] = 'Пошта Бокс';
+$lang['contact_extension_region'] = 'област';
+$lang['contact_extension_room_number'] = 'Број собе';
+$lang['contact_extension_street'] = 'улица';
+$lang['contact_extension_telephone_number'] = 'Број телефона';
+$lang['contact_extension_unit'] = 'Јединица';
+$lang['contact_extension_city_is_invalid'] = 'Град је неважећи.';
+$lang['contact_extension_country_is_invalid'] = 'Земља је неважећи.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Број факса је неважећи.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Број мобилног телефона је неважећи.';
+$lang['contact_extension_organization_is_invalid'] = 'Организација је неважећи.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Пошта кутија је неважећи.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Поштански код је неважећи.';
+$lang['contact_extension_region_is_invalid'] = 'Регион је неважећи.';
+$lang['contact_extension_room_number_is_invalid'] = 'Соба број је неважећи.';
+$lang['contact_extension_street_is_invalid'] = 'Улица је неважећи.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Број телефона је неважећи.';
+$lang['contact_extension_unit_is_invalid'] = 'Јединица је неважећи.';
