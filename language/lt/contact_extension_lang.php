@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Kontaktinė pratęsimas tęsiasi katalogą su vartotojo kontaktinę informaciją, pavyzdžiui, telefono numerį, Mobile ir adresą.';
+$lang['contact_extension_app_name'] = 'Kontaktinė pratęsimas';
+$lang['contact_extension_contact_account_extension'] = 'Susisiekti Paskyros pratęsimas';
+$lang['contact_extension_contact'] = 'kontaktas';
+$lang['contact_extension_city'] = 'miestas';
+$lang['contact_extension_country'] = 'Šalis';
+$lang['contact_extension_fax_number'] = 'Fakso numeris';
+$lang['contact_extension_mobile_number'] = 'Mobilaus telefono numeris';
+$lang['contact_extension_organization'] = 'organizacija';
+$lang['contact_extension_postal_code'] = 'Pašto kodas';
+$lang['contact_extension_post_office_box'] = 'Pašto dėžutės';
+$lang['contact_extension_region'] = 'regionas';
+$lang['contact_extension_room_number'] = 'Kambario numeris';
+$lang['contact_extension_street'] = 'gatvė';
+$lang['contact_extension_telephone_number'] = 'Telefono numeris';
+$lang['contact_extension_unit'] = 'vienetas';
+$lang['contact_extension_city_is_invalid'] = 'Miestas yra neteisinga.';
+$lang['contact_extension_country_is_invalid'] = 'Šalis yra neteisinga.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Fakso numeris yra neteisingas.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobilus numeris yra neteisingas.';
+$lang['contact_extension_organization_is_invalid'] = 'Organizacija yra neteisinga.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Pašto dėžutės negalioja.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Pašto kodas yra neteisingas.';
+$lang['contact_extension_region_is_invalid'] = 'Regionas yra neteisinga.';
+$lang['contact_extension_room_number_is_invalid'] = 'Kambarių skaičius negalioja.';
+$lang['contact_extension_street_is_invalid'] = 'Gatvė yra neteisinga.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Telefono numeris yra neteisingas.';
+$lang['contact_extension_unit_is_invalid'] = 'Vienetas yra neteisinga.';
