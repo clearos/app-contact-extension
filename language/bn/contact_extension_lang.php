@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'যোগাযোগ এক্সটেনশন যেমন ফোন নম্বর, মোবাইল, এবং ঠিকানা হিসাবে ব্যবহারকারী পরিচিতি তথ্য ডিরেক্টরি প্রসারিত.';
+$lang['contact_extension_app_name'] = 'যোগাযোগ সম্প্রসারণ';
+$lang['contact_extension_contact_account_extension'] = 'যোগাযোগ অ্যাকাউন্ট এক্সটেনশন';
+$lang['contact_extension_contact'] = 'যোগাযোগ';
+$lang['contact_extension_city'] = 'শহর';
+$lang['contact_extension_country'] = 'দেশ';
+$lang['contact_extension_fax_number'] = 'ফ্যাক্স নম্বর';
+$lang['contact_extension_mobile_number'] = 'মোবাইল নম্বর';
+$lang['contact_extension_organization'] = 'সংগঠন';
+$lang['contact_extension_postal_code'] = 'পোস্ট অফিসের নাম্বার';
+$lang['contact_extension_post_office_box'] = 'পোস্টাল অফিস বক্স';
+$lang['contact_extension_region'] = 'এলাকা';
+$lang['contact_extension_room_number'] = 'রুম নম্বর';
+$lang['contact_extension_street'] = 'রাস্তা';
+$lang['contact_extension_telephone_number'] = 'টেলিফোন নাম্বার';
+$lang['contact_extension_unit'] = 'একক';
+$lang['contact_extension_city_is_invalid'] = 'সিটি অবৈধ.';
+$lang['contact_extension_country_is_invalid'] = 'দেশ অবৈধ.';
+$lang['contact_extension_fax_number_is_invalid'] = 'ফ্যাক্স নম্বর অবৈধ.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'মোবাইল নম্বর অবৈধ.';
+$lang['contact_extension_organization_is_invalid'] = 'অর্গানাইজেশন অবৈধ.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'পোস্ট অফিস বক্স অবৈধ.';
+$lang['contact_extension_postal_code_is_invalid'] = 'পোস্টাল কোড অবৈধ.';
+$lang['contact_extension_region_is_invalid'] = 'অঞ্চল অবৈধ.';
+$lang['contact_extension_room_number_is_invalid'] = 'রুম নম্বর অবৈধ.';
+$lang['contact_extension_street_is_invalid'] = 'রাস্তার অবৈধ.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'টেলিফোন নম্বর অবৈধ.';
+$lang['contact_extension_unit_is_invalid'] = 'ইউনিট অবৈধ.';
