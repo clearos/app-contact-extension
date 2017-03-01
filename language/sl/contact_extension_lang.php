@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Kontaktni Podaljšanje podaljšuje imenik s kontaktnim uporabniški podatki, kot so telefonska številka, mobilni in naslov.';
+$lang['contact_extension_app_name'] = 'Kontakt Podaljšanje';
+$lang['contact_extension_contact_account_extension'] = 'Razširitev Kontakt račun';
+$lang['contact_extension_contact'] = 'Kontakt';
+$lang['contact_extension_city'] = 'mesto';
+$lang['contact_extension_country'] = 'Država';
+$lang['contact_extension_fax_number'] = 'Fax številka';
+$lang['contact_extension_mobile_number'] = 'Mobilna številka';
+$lang['contact_extension_organization'] = 'organizacija';
+$lang['contact_extension_postal_code'] = 'Poštna številka';
+$lang['contact_extension_post_office_box'] = 'Postal urad Box';
+$lang['contact_extension_region'] = 'regija';
+$lang['contact_extension_room_number'] = 'Številka sobe';
+$lang['contact_extension_street'] = 'Street';
+$lang['contact_extension_telephone_number'] = 'Telefonska številka';
+$lang['contact_extension_unit'] = 'enota';
+$lang['contact_extension_city_is_invalid'] = 'City je neveljavna.';
+$lang['contact_extension_country_is_invalid'] = 'Država je neveljavna.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Številka faksa je neveljavna.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobilna številka ni veljavna.';
+$lang['contact_extension_organization_is_invalid'] = 'Organizacija je neveljavna.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Poštni predal, je neveljavna.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Poštna koda je neveljavna.';
+$lang['contact_extension_region_is_invalid'] = 'Regija je neveljavna.';
+$lang['contact_extension_room_number_is_invalid'] = 'Številka soba je neveljavna.';
+$lang['contact_extension_street_is_invalid'] = 'Street je neveljavna.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Telefonska številka je neveljavna.';
+$lang['contact_extension_unit_is_invalid'] = 'Enota je neveljavna.';
