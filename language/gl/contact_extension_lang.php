@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'O contacto de extensión estende o directorio con información de contacto do usuario, como número de teléfono, móbil, e enderezo.';
+$lang['contact_extension_app_name'] = 'contacto Extensión';
+$lang['contact_extension_contact_account_extension'] = 'Contactar Extensión Conta';
+$lang['contact_extension_contact'] = 'contacto';
+$lang['contact_extension_city'] = 'cidade';
+$lang['contact_extension_country'] = 'país';
+$lang['contact_extension_fax_number'] = 'Número de Fax';
+$lang['contact_extension_mobile_number'] = 'Número de móbil';
+$lang['contact_extension_organization'] = 'organización';
+$lang['contact_extension_postal_code'] = 'código postal';
+$lang['contact_extension_post_office_box'] = 'Postal Box Office';
+$lang['contact_extension_region'] = 'rexión';
+$lang['contact_extension_room_number'] = 'número do cuarto';
+$lang['contact_extension_street'] = 'rúa';
+$lang['contact_extension_telephone_number'] = 'Número de teléfono';
+$lang['contact_extension_unit'] = 'Unidade';
+$lang['contact_extension_city_is_invalid'] = 'Cidade é válido.';
+$lang['contact_extension_country_is_invalid'] = 'País é válido.';
+$lang['contact_extension_fax_number_is_invalid'] = 'número de fax é válido.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'número de móbil non é válido.';
+$lang['contact_extension_organization_is_invalid'] = 'Organización non é válido.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Caixa Postal é válido.';
+$lang['contact_extension_postal_code_is_invalid'] = 'código postal é válido.';
+$lang['contact_extension_region_is_invalid'] = 'Rexión non é válido.';
+$lang['contact_extension_room_number_is_invalid'] = 'Cuarto número é válido.';
+$lang['contact_extension_street_is_invalid'] = 'Rúa é válido.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'número de teléfono non é válido.';
+$lang['contact_extension_unit_is_invalid'] = 'Unidade é válido.';
