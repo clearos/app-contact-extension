@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Te Whakapā Extension atu te whaiaronga ki ngā mōhiohio kaiwhakamahi whakapā pēnei i te tau waea, pūkoro, me te wāhitau.';
+$lang['contact_extension_app_name'] = 'Whakapā Toronga';
+$lang['contact_extension_contact_account_extension'] = 'Whakapā Pūkete Toronga';
+$lang['contact_extension_contact'] = 'Whakapā';
+$lang['contact_extension_city'] = 'City';
+$lang['contact_extension_country'] = 'whenua';
+$lang['contact_extension_fax_number'] = 'Tau Waea';
+$lang['contact_extension_mobile_number'] = 'Tau Mobile';
+$lang['contact_extension_organization'] = 'Organization';
+$lang['contact_extension_postal_code'] = 'Waehere Poutāpeta';
+$lang['contact_extension_post_office_box'] = 'Poutāpeta Pouaka Office';
+$lang['contact_extension_region'] = 'Region';
+$lang['contact_extension_room_number'] = 'Tau Room';
+$lang['contact_extension_street'] = 'Street';
+$lang['contact_extension_telephone_number'] = 'Tau waea';
+$lang['contact_extension_unit'] = 'Unit';
+$lang['contact_extension_city_is_invalid'] = 'He muhu pa.';
+$lang['contact_extension_country_is_invalid'] = 'He muhu Country.';
+$lang['contact_extension_fax_number_is_invalid'] = 'He muhu tau waeatuhi.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'He muhu tau Mobile.';
+$lang['contact_extension_organization_is_invalid'] = 'He muhu Organization.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'He muhu pouaka tari Post.';
+$lang['contact_extension_postal_code_is_invalid'] = 'He muhu te waehere poutāpeta.';
+$lang['contact_extension_region_is_invalid'] = 'He muhu Region.';
+$lang['contact_extension_room_number_is_invalid'] = 'He muhu tau Room.';
+$lang['contact_extension_street_is_invalid'] = 'He muhu Street.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'He muhu te nama waea.';
+$lang['contact_extension_unit_is_invalid'] = 'He muhu Unit.';
