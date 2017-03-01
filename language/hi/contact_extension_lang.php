@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'संपर्क एक्सटेंशन में इस तरह के फोन नंबर, मोबाइल और पते के रूप में उपयोगकर्ता संपर्क जानकारी के साथ निर्देशिका फैली हुई है।';
+$lang['contact_extension_app_name'] = 'संपर्क एक्सटेंशन';
+$lang['contact_extension_contact_account_extension'] = 'संपर्क खाता एक्सटेंशन';
+$lang['contact_extension_contact'] = 'संपर्क करें';
+$lang['contact_extension_city'] = 'शहर';
+$lang['contact_extension_country'] = 'देश';
+$lang['contact_extension_fax_number'] = 'फैक्स नंबर';
+$lang['contact_extension_mobile_number'] = 'मोबाइल नंबर';
+$lang['contact_extension_organization'] = 'संगठन';
+$lang['contact_extension_postal_code'] = 'डाक कोड';
+$lang['contact_extension_post_office_box'] = 'डाक ऑफिस बॉक्स';
+$lang['contact_extension_region'] = 'क्षेत्र';
+$lang['contact_extension_room_number'] = 'कमरा संख्या';
+$lang['contact_extension_street'] = 'सड़क';
+$lang['contact_extension_telephone_number'] = 'टेलीफोन नंबर';
+$lang['contact_extension_unit'] = 'इकाई';
+$lang['contact_extension_city_is_invalid'] = 'शहर अमान्य है।';
+$lang['contact_extension_country_is_invalid'] = 'देश अमान्य है।';
+$lang['contact_extension_fax_number_is_invalid'] = 'फैक्स नंबर अमान्य है।';
+$lang['contact_extension_mobile_number_is_invalid'] = 'मोबाइल नंबर अमान्य है।';
+$lang['contact_extension_organization_is_invalid'] = 'संगठन अमान्य है।';
+$lang['contact_extension_post_office_box_is_invalid'] = 'पोस्ट ऑफिस बॉक्स अमान्य है।';
+$lang['contact_extension_postal_code_is_invalid'] = 'डाक कोड अमान्य है।';
+$lang['contact_extension_region_is_invalid'] = 'क्षेत्र अमान्य है।';
+$lang['contact_extension_room_number_is_invalid'] = 'कमरा नंबर अमान्य है।';
+$lang['contact_extension_street_is_invalid'] = 'स्ट्रीट अमान्य है।';
+$lang['contact_extension_telephone_number_is_invalid'] = 'टेलीफोन नंबर अमान्य है।';
+$lang['contact_extension_unit_is_invalid'] = 'यूनिट अमान्य है।';
