@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Mae&#39;r Estyniad Cyswllt ymestyn cyfeiriadur â gwybodaeth gyswllt defnyddiwr, megis rhif ffôn, ffôn symudol, a chyfeiriad.';
+$lang['contact_extension_app_name'] = 'Estyniad cyswllt';
+$lang['contact_extension_contact_account_extension'] = 'Cysylltu Estyniad Cyfrif';
+$lang['contact_extension_contact'] = 'cyswllt';
+$lang['contact_extension_city'] = 'City';
+$lang['contact_extension_country'] = 'gwlad';
+$lang['contact_extension_fax_number'] = 'Rhif ffacs';
+$lang['contact_extension_mobile_number'] = 'Rhif ffôn Symudol';
+$lang['contact_extension_organization'] = 'sefydliad';
+$lang['contact_extension_postal_code'] = 'Côd Post';
+$lang['contact_extension_post_office_box'] = 'Post Box Office';
+$lang['contact_extension_region'] = 'rhanbarth';
+$lang['contact_extension_room_number'] = 'Rhif ystafell';
+$lang['contact_extension_street'] = 'stryd';
+$lang['contact_extension_telephone_number'] = 'Rhif Ffon';
+$lang['contact_extension_unit'] = 'Uned';
+$lang['contact_extension_city_is_invalid'] = 'Dinas yn annilys.';
+$lang['contact_extension_country_is_invalid'] = 'Gwlad yn annilys.';
+$lang['contact_extension_fax_number_is_invalid'] = 'rhif ffacs yn annilys.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'rhif ffôn symudol yn annilys.';
+$lang['contact_extension_organization_is_invalid'] = 'Sefydliad yn annilys.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'blwch swyddfa Bost yn annilys.';
+$lang['contact_extension_postal_code_is_invalid'] = 'cod post yn annilys.';
+$lang['contact_extension_region_is_invalid'] = 'Rhanbarth yn annilys.';
+$lang['contact_extension_room_number_is_invalid'] = 'rhif ystafell yn annilys.';
+$lang['contact_extension_street_is_invalid'] = 'Stryd yn annilys.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Rhif ffôn yn annilys.';
+$lang['contact_extension_unit_is_invalid'] = 'Uned yn annilys.';
