@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Η επέκταση Επικοινωνία επεκτείνει τον κατάλογο με τα στοιχεία επικοινωνίας των χρηστών, όπως τον αριθμό του τηλεφώνου, κινητό, και τη διεύθυνση.';
+$lang['contact_extension_app_name'] = 'Επικοινωνία Επέκταση';
+$lang['contact_extension_contact_account_extension'] = 'Επικοινωνία Επέκταση Λογαριασμού';
+$lang['contact_extension_contact'] = 'Επικοινωνία';
+$lang['contact_extension_city'] = 'Πόλη';
+$lang['contact_extension_country'] = 'Χώρα';
+$lang['contact_extension_fax_number'] = 'Αριθμός φαξ';
+$lang['contact_extension_mobile_number'] = 'Αριθμός κινητού';
+$lang['contact_extension_organization'] = 'Οργάνωση';
+$lang['contact_extension_postal_code'] = 'Ταχυδρομικός Κώδικας';
+$lang['contact_extension_post_office_box'] = 'Ταχυδρομική Υπηρεσία Box';
+$lang['contact_extension_region'] = 'Περιοχή';
+$lang['contact_extension_room_number'] = 'Αριθμός δωματίου';
+$lang['contact_extension_street'] = 'Δρόμος';
+$lang['contact_extension_telephone_number'] = 'Αριθμός τηλεφώνου';
+$lang['contact_extension_unit'] = 'Μονάδα';
+$lang['contact_extension_city_is_invalid'] = 'City είναι άκυρη.';
+$lang['contact_extension_country_is_invalid'] = 'Χώρα δεν είναι έγκυρο.';
+$lang['contact_extension_fax_number_is_invalid'] = 'αριθμός φαξ είναι άκυρη.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Αριθμός κινητού τηλεφώνου δεν είναι έγκυρος.';
+$lang['contact_extension_organization_is_invalid'] = 'Οργάνωση δεν είναι έγκυρο.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Post box office δεν είναι έγκυρο.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Ταχυδρομικός κώδικας δεν είναι έγκυρος.';
+$lang['contact_extension_region_is_invalid'] = 'Περιοχή δεν είναι έγκυρο.';
+$lang['contact_extension_room_number_is_invalid'] = 'τον αριθμό του δωματίου δεν είναι έγκυρο.';
+$lang['contact_extension_street_is_invalid'] = 'Street είναι άκυρη.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'αριθμός τηλεφώνου δεν είναι έγκυρος.';
+$lang['contact_extension_unit_is_invalid'] = 'Μονάδα δεν είναι έγκυρο.';
