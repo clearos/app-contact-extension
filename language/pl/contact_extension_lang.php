@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Rozszerzenie kontaktowa rozszerza katalog z informacjami kontaktowymi użytkownika, takie jak numer telefonu komórkowego i adres.';
+$lang['contact_extension_app_name'] = 'Kontakt Przedłużacz';
+$lang['contact_extension_contact_account_extension'] = 'Kontakt Konto Extension';
+$lang['contact_extension_contact'] = 'Kontakt';
+$lang['contact_extension_city'] = 'Miasto';
+$lang['contact_extension_country'] = 'Kraj';
+$lang['contact_extension_fax_number'] = 'Numer faksu';
+$lang['contact_extension_mobile_number'] = 'Numer telefonu komórkowego';
+$lang['contact_extension_organization'] = 'Organizacja';
+$lang['contact_extension_postal_code'] = 'kod pocztowy';
+$lang['contact_extension_post_office_box'] = 'Postal Box Office';
+$lang['contact_extension_region'] = 'Region';
+$lang['contact_extension_room_number'] = 'Numer pokoju';
+$lang['contact_extension_street'] = 'Ulica';
+$lang['contact_extension_telephone_number'] = 'Numer telefonu';
+$lang['contact_extension_unit'] = 'Jednostka';
+$lang['contact_extension_city_is_invalid'] = 'Miasto jest nieprawidłowy.';
+$lang['contact_extension_country_is_invalid'] = 'Kraj jest nieprawidłowy.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Numer faksu jest nieprawidłowy.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Numer telefonu jest nieprawidłowy.';
+$lang['contact_extension_organization_is_invalid'] = 'Organizacja jest nieprawidłowy.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Skrytka pocztowa jest nieprawidłowy.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Kod pocztowy jest nieprawidłowy.';
+$lang['contact_extension_region_is_invalid'] = 'Region jest nieprawidłowy.';
+$lang['contact_extension_room_number_is_invalid'] = 'Liczba pokoi jest nieprawidłowy.';
+$lang['contact_extension_street_is_invalid'] = 'Ulica jest nieprawidłowy.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Numer telefonu jest nieprawidłowy.';
+$lang['contact_extension_unit_is_invalid'] = 'Jednostka jest nieprawidłowy.';
