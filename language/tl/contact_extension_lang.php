@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Ang Contact Extension nagpalawak sa direktoryo na may impormasyon ng gumagamit ng contact tulad ng numero ng telepono, mobile, at address.';
+$lang['contact_extension_app_name'] = 'Makipag-ugnay sa Extension';
+$lang['contact_extension_contact_account_extension'] = 'Extension Contact Account';
+$lang['contact_extension_contact'] = 'Makipag-ugnay sa';
+$lang['contact_extension_city'] = 'lungsod';
+$lang['contact_extension_country'] = 'bansa';
+$lang['contact_extension_fax_number'] = 'Numero ng fax';
+$lang['contact_extension_mobile_number'] = 'mobile Number';
+$lang['contact_extension_organization'] = 'samahan';
+$lang['contact_extension_postal_code'] = 'Postal Code';
+$lang['contact_extension_post_office_box'] = 'Postal Office Box';
+$lang['contact_extension_region'] = 'Rehiyon';
+$lang['contact_extension_room_number'] = 'room Number';
+$lang['contact_extension_street'] = 'kalye';
+$lang['contact_extension_telephone_number'] = 'Numero ng telepono';
+$lang['contact_extension_unit'] = 'yunit';
+$lang['contact_extension_city_is_invalid'] = 'City ay hindi wasto.';
+$lang['contact_extension_country_is_invalid'] = 'Bansa ay hindi wasto.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Ang numero ng fax ay hindi wasto.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Numero ng mobile ay hindi wasto.';
+$lang['contact_extension_organization_is_invalid'] = 'Organization ay hindi wasto.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Post office box ay hindi wasto.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Postal code ay hindi wasto.';
+$lang['contact_extension_region_is_invalid'] = 'Region ay hindi wasto.';
+$lang['contact_extension_room_number_is_invalid'] = 'Room number ay hindi wasto.';
+$lang['contact_extension_street_is_invalid'] = 'Street ay hindi wasto.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Numero ng telepono ay hindi wasto.';
+$lang['contact_extension_unit_is_invalid'] = 'Unit ay hindi wasto.';
