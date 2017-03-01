@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'דער קאָנטאַקט געשפּרייט יקסטענדז די דירעקטארי מיט וסערס קאָנטאַקט אינפֿאָרמאַציע אַזאַ ווי טעלעפאָנירן נומער, רירעוודיק, און אַדרעס.';
+$lang['contact_extension_app_name'] = 'קאָנטאַקט עקסטענסיאָן';
+$lang['contact_extension_contact_account_extension'] = 'קאָנטאַקט אַקאַונט עקסטענסיאָן';
+$lang['contact_extension_contact'] = 'קאָנטאַקט';
+$lang['contact_extension_city'] = 'שטאָט';
+$lang['contact_extension_country'] = 'לאַנד';
+$lang['contact_extension_fax_number'] = 'fax נומער';
+$lang['contact_extension_mobile_number'] = 'מאביל נומער';
+$lang['contact_extension_organization'] = 'אָרגאַניזירונג';
+$lang['contact_extension_postal_code'] = 'פּאָסטאַל קאָוד';
+$lang['contact_extension_post_office_box'] = 'פּאָסטאַל אַמט באָקס';
+$lang['contact_extension_region'] = 'געגנט';
+$lang['contact_extension_room_number'] = 'רום נומער';
+$lang['contact_extension_street'] = 'גאַס';
+$lang['contact_extension_telephone_number'] = 'טעלעפאָן נומער';
+$lang['contact_extension_unit'] = 'אַפּאַראַט';
+$lang['contact_extension_city_is_invalid'] = 'סיטי איז פאַרקריפּלט.';
+$lang['contact_extension_country_is_invalid'] = 'לאַנד איז פאַרקריפּלט.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Fax נומער איז פאַרקריפּלט.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'מאָביל נומער איז פאַרקריפּלט.';
+$lang['contact_extension_organization_is_invalid'] = 'ארגאניזאציע איז פאַרקריפּלט.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'פּאָסטן אָפיס קאַסטן איז פאַרקריפּלט.';
+$lang['contact_extension_postal_code_is_invalid'] = 'פּאָסטאַל קאָד איז פאַרקריפּלט.';
+$lang['contact_extension_region_is_invalid'] = 'קאנט איז פאַרקריפּלט.';
+$lang['contact_extension_room_number_is_invalid'] = 'רום נומער איז פאַרקריפּלט.';
+$lang['contact_extension_street_is_invalid'] = 'סטריט איז פאַרקריפּלט.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'טעלעפאָן נומער איז פאַרקריפּלט.';
+$lang['contact_extension_unit_is_invalid'] = 'יוניט איז פאַרקריפּלט.';
