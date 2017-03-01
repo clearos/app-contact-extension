@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'सम्पर्क विस्तार यस्तो फोन नम्बर, मोबाइल, र ठेगाना रूपमा प्रयोगकर्ता सम्पर्क जानकारी संग निर्देशिका विस्तार गर्दछ।';
+$lang['contact_extension_app_name'] = 'संपर्क विस्तार';
+$lang['contact_extension_contact_account_extension'] = 'संपर्क खाता विस्तार';
+$lang['contact_extension_contact'] = 'संपर्क';
+$lang['contact_extension_city'] = 'शहर';
+$lang['contact_extension_country'] = 'देश';
+$lang['contact_extension_fax_number'] = 'फ्याक्स नम्बर';
+$lang['contact_extension_mobile_number'] = 'मोबाइल नम्बर';
+$lang['contact_extension_organization'] = 'संगठन';
+$lang['contact_extension_postal_code'] = 'पिन कोड';
+$lang['contact_extension_post_office_box'] = 'हुलाक कार्यालय बक्स';
+$lang['contact_extension_region'] = 'क्षेत्र';
+$lang['contact_extension_room_number'] = 'कोठा नम्बर';
+$lang['contact_extension_street'] = 'सडक';
+$lang['contact_extension_telephone_number'] = 'टेलिफोन नम्बर';
+$lang['contact_extension_unit'] = 'एकाइ';
+$lang['contact_extension_city_is_invalid'] = 'सिटी अमान्य छ।';
+$lang['contact_extension_country_is_invalid'] = 'देश अमान्य छ।';
+$lang['contact_extension_fax_number_is_invalid'] = 'फ्याक्स नम्बर अवैध छ।';
+$lang['contact_extension_mobile_number_is_invalid'] = 'मोबाइल नम्बर अवैध छ।';
+$lang['contact_extension_organization_is_invalid'] = 'संगठन अमान्य छ।';
+$lang['contact_extension_post_office_box_is_invalid'] = 'हुलाक कार्यालय बक्स अमान्य छ।';
+$lang['contact_extension_postal_code_is_invalid'] = 'हुलाक कोड अवैध छ।';
+$lang['contact_extension_region_is_invalid'] = 'क्षेत्र अमान्य छ।';
+$lang['contact_extension_room_number_is_invalid'] = 'कोठा नम्बर अवैध छ।';
+$lang['contact_extension_street_is_invalid'] = 'सडक अवैध छ।';
+$lang['contact_extension_telephone_number_is_invalid'] = 'टेलिफोन नम्बर अवैध छ।';
+$lang['contact_extension_unit_is_invalid'] = 'एकाइ अमान्य छ।';
