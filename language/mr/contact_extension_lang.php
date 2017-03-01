@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'संपर्क विस्तार जसे फोन नंबर, मोबाइल आणि पत्ता वापरकर्ता संपर्क माहिती डिरेक्टरी वाढवितो.';
+$lang['contact_extension_app_name'] = 'संपर्क विस्तार';
+$lang['contact_extension_contact_account_extension'] = 'संपर्क खाते विस्तार';
+$lang['contact_extension_contact'] = 'संपर्क';
+$lang['contact_extension_city'] = 'सिटी';
+$lang['contact_extension_country'] = 'देश';
+$lang['contact_extension_fax_number'] = 'फॅक्स नंबर';
+$lang['contact_extension_mobile_number'] = 'मोबाइल क्रमांक';
+$lang['contact_extension_organization'] = 'संघटना';
+$lang['contact_extension_postal_code'] = 'पिनकोड';
+$lang['contact_extension_post_office_box'] = 'पोस्टल ऑफिस बॉक्स';
+$lang['contact_extension_region'] = 'प्रदेश';
+$lang['contact_extension_room_number'] = 'खोली क्रमांक';
+$lang['contact_extension_street'] = 'रस्ता';
+$lang['contact_extension_telephone_number'] = 'दूरध्वनी क्रमांक';
+$lang['contact_extension_unit'] = 'युनिट';
+$lang['contact_extension_city_is_invalid'] = 'शहर अवैध आहे.';
+$lang['contact_extension_country_is_invalid'] = 'देश अवैध आहे.';
+$lang['contact_extension_fax_number_is_invalid'] = 'फॅक्स क्रमांक अवैध आहे.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'मोबाइल क्रमांक अवैध आहे.';
+$lang['contact_extension_organization_is_invalid'] = 'संघटना अवैध आहे.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'पोस्ट ऑफिस बॉक्स अवैध आहे.';
+$lang['contact_extension_postal_code_is_invalid'] = 'पोस्टल कोड अवैध आहे.';
+$lang['contact_extension_region_is_invalid'] = 'प्रदेश अवैध आहे.';
+$lang['contact_extension_room_number_is_invalid'] = 'रूम नंबर अवैध आहे.';
+$lang['contact_extension_street_is_invalid'] = 'रस्त्यावर अवैध आहे.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'टेलिफोन नंबर अवैध आहे.';
+$lang['contact_extension_unit_is_invalid'] = 'युनिट अवैध आहे.';
