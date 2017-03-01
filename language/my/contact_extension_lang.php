@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'အဆိုပါဆက်သွယ်ပါတိုးချဲ့ထိုကဲ့သို့သောဖုန်းနံပါတ်, မိုဘိုင်း, နှင့်လိပ်စာအဖြစ်အသုံးပြုသူအဆက်အသွယ်သတင်းအချက်အလက်နှင့်အတူ directory ကိုချဲ့ထွင်။';
+$lang['contact_extension_app_name'] = 'ဆက်သွယ်ပါတိုးချဲ့';
+$lang['contact_extension_contact_account_extension'] = 'အကောင့်တိုးချဲ့မှုကိုဆက်သွယ်ပါ';
+$lang['contact_extension_contact'] = 'ထိတှေ့';
+$lang['contact_extension_city'] = 'မြို့';
+$lang['contact_extension_country'] = 'ပြည်';
+$lang['contact_extension_fax_number'] = 'ဖက်စ်နံပါတ်';
+$lang['contact_extension_mobile_number'] = 'လက်ကိုင်ဖုန်းနာပတ်';
+$lang['contact_extension_organization'] = 'အဖှဲ့အစညျး';
+$lang['contact_extension_postal_code'] = 'စာတိုက်သင်္ကေတ';
+$lang['contact_extension_post_office_box'] = 'စာတိုက်ရုံးက Box ကို';
+$lang['contact_extension_region'] = 'ဒေသ';
+$lang['contact_extension_room_number'] = 'အခန်းနံပတ်';
+$lang['contact_extension_street'] = 'လမ်း';
+$lang['contact_extension_telephone_number'] = 'တယ်လီဖုန်းနံပါတ်';
+$lang['contact_extension_unit'] = 'ယူနစ်';
+$lang['contact_extension_city_is_invalid'] = 'စီးတီးဟာမမှန်ကန်ဘူး။';
+$lang['contact_extension_country_is_invalid'] = 'နိုင်ငံမမှန်ကန်ဘူး။';
+$lang['contact_extension_fax_number_is_invalid'] = 'ဖက်စ်နံပါတ်မမှန်ကန်ဘူး။';
+$lang['contact_extension_mobile_number_is_invalid'] = 'မိုဘိုင်းနံပါတ်မမှန်ကန်ဘူး။';
+$lang['contact_extension_organization_is_invalid'] = 'အဖှဲ့အစညျးမမှန်ကန်ဘူး။';
+$lang['contact_extension_post_office_box_is_invalid'] = 'စာတိုက်သေတ္တာမမှန်ကန်ဘူး။';
+$lang['contact_extension_postal_code_is_invalid'] = 'စာတိုက် code ကိုမမှန်ကန်ဘူး။';
+$lang['contact_extension_region_is_invalid'] = 'တိုင်းဒေသကြီးမမှန်ကန်ဘူး။';
+$lang['contact_extension_room_number_is_invalid'] = 'အခန်းအရေအတွက်မမှန်ကန်ဘူး။';
+$lang['contact_extension_street_is_invalid'] = 'လမ်းမမှန်ကန်ဘူး။';
+$lang['contact_extension_telephone_number_is_invalid'] = 'တယ်လီဖုန်းနံပါတ်မမှန်ကန်ဘူး။';
+$lang['contact_extension_unit_is_invalid'] = 'ယူနစ်မမှန်ကန်ဘူး။';
