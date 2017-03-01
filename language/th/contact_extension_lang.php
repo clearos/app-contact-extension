@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'ติดต่อส่วนต่อขยายขยายไดเรกทอรีที่มีข้อมูลการติดต่อของผู้ใช้เช่นหมายเลขโทรศัพท์มือถือและที่อยู่';
+$lang['contact_extension_app_name'] = 'ติดต่อส่วนต่อขยาย';
+$lang['contact_extension_contact_account_extension'] = 'ส่วนขยายบัญชีรายชื่อผู้ติดต่อ';
+$lang['contact_extension_contact'] = 'ติดต่อ';
+$lang['contact_extension_city'] = 'เมือง';
+$lang['contact_extension_country'] = 'ประเทศ';
+$lang['contact_extension_fax_number'] = 'หมายเลขโทรสาร';
+$lang['contact_extension_mobile_number'] = 'เบอร์มือถือ';
+$lang['contact_extension_organization'] = 'องค์กร';
+$lang['contact_extension_postal_code'] = 'รหัสไปรษณีย์';
+$lang['contact_extension_post_office_box'] = 'ไปรษณีย์บ็อกซ์ออฟฟิศ';
+$lang['contact_extension_region'] = 'ภูมิภาค';
+$lang['contact_extension_room_number'] = 'หมายเลขห้อง';
+$lang['contact_extension_street'] = 'ถนน';
+$lang['contact_extension_telephone_number'] = 'หมายเลขโทรศัพท์';
+$lang['contact_extension_unit'] = 'หน่วย';
+$lang['contact_extension_city_is_invalid'] = 'เมืองที่ไม่ถูกต้อง';
+$lang['contact_extension_country_is_invalid'] = 'ประเทศไม่ถูกต้อง';
+$lang['contact_extension_fax_number_is_invalid'] = 'หมายเลขโทรสารไม่ถูกต้อง';
+$lang['contact_extension_mobile_number_is_invalid'] = 'หมายเลขโทรศัพท์มือถือไม่ถูกต้อง';
+$lang['contact_extension_organization_is_invalid'] = 'องค์การไม่ถูกต้อง';
+$lang['contact_extension_post_office_box_is_invalid'] = 'โพสต์บ็อกซ์ออฟฟิศไม่ถูกต้อง';
+$lang['contact_extension_postal_code_is_invalid'] = 'รหัสไปรษณีย์ไม่ถูกต้อง';
+$lang['contact_extension_region_is_invalid'] = 'ภาคไม่ถูกต้อง';
+$lang['contact_extension_room_number_is_invalid'] = 'จำนวนห้องพักไม่ถูกต้อง';
+$lang['contact_extension_street_is_invalid'] = 'สถานที่ไม่ถูกต้อง';
+$lang['contact_extension_telephone_number_is_invalid'] = 'หมายเลขโทรศัพท์ไม่ถูกต้อง';
+$lang['contact_extension_unit_is_invalid'] = 'หน่วยไม่ถูกต้อง';
