@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = '상대 확장은 전화 번호, 휴대 전화, 주소 등의 사용자의 연락처 정보와 디렉토리를 연장한다.';
+$lang['contact_extension_app_name'] = '연락 확장';
+$lang['contact_extension_contact_account_extension'] = '연락 계정 확장';
+$lang['contact_extension_contact'] = '접촉';
+$lang['contact_extension_city'] = '시티';
+$lang['contact_extension_country'] = '국가';
+$lang['contact_extension_fax_number'] = '팩스 번호';
+$lang['contact_extension_mobile_number'] = '휴대 전화 번호';
+$lang['contact_extension_organization'] = '조직';
+$lang['contact_extension_postal_code'] = '우편 번호';
+$lang['contact_extension_post_office_box'] = '우편 사무실 상자';
+$lang['contact_extension_region'] = '부위';
+$lang['contact_extension_room_number'] = '방 번호';
+$lang['contact_extension_street'] = '거리';
+$lang['contact_extension_telephone_number'] = '전화 번호';
+$lang['contact_extension_unit'] = '단위';
+$lang['contact_extension_city_is_invalid'] = '도시가 잘못되었습니다.';
+$lang['contact_extension_country_is_invalid'] = '나라가 잘못되었습니다.';
+$lang['contact_extension_fax_number_is_invalid'] = '팩스 번호가 잘못되었습니다.';
+$lang['contact_extension_mobile_number_is_invalid'] = '휴대 전화 번호가 잘못되었습니다.';
+$lang['contact_extension_organization_is_invalid'] = '조직이 잘못되었습니다.';
+$lang['contact_extension_post_office_box_is_invalid'] = '우체국 상자가 잘못되었습니다.';
+$lang['contact_extension_postal_code_is_invalid'] = '우편 번호가 잘못되었습니다.';
+$lang['contact_extension_region_is_invalid'] = '지역이 잘못되었습니다.';
+$lang['contact_extension_room_number_is_invalid'] = '방 번호가 잘못되었습니다.';
+$lang['contact_extension_street_is_invalid'] = '거리가 잘못되었습니다.';
+$lang['contact_extension_telephone_number_is_invalid'] = '전화 번호가 잘못되었습니다.';
+$lang['contact_extension_unit_is_invalid'] = '단위가 잘못되었습니다.';
