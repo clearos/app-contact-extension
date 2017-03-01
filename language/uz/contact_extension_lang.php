@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Aloqa Extension masalan, telefon raqami, mobil va manzil sifatida foydalanuvchi ma&#39;lumot bilan katalogini uzaytiradi.';
+$lang['contact_extension_app_name'] = 'aloqa Extension';
+$lang['contact_extension_contact_account_extension'] = 'Aloqa Account Extension';
+$lang['contact_extension_contact'] = 'aloqa';
+$lang['contact_extension_city'] = 'shahar';
+$lang['contact_extension_country'] = 'mamlakat';
+$lang['contact_extension_fax_number'] = 'Faks raqami';
+$lang['contact_extension_mobile_number'] = 'Mobil telefon raqami';
+$lang['contact_extension_organization'] = 'tashkilot';
+$lang['contact_extension_postal_code'] = 'Pochta Indeksi';
+$lang['contact_extension_post_office_box'] = 'Pochta idorasi Box';
+$lang['contact_extension_region'] = 'mintaqa';
+$lang['contact_extension_room_number'] = 'Xona soni';
+$lang['contact_extension_street'] = 'ko&#39;cha';
+$lang['contact_extension_telephone_number'] = 'Telefon raqami';
+$lang['contact_extension_unit'] = 'birlik';
+$lang['contact_extension_city_is_invalid'] = 'Shahar haqiqiy emas.';
+$lang['contact_extension_country_is_invalid'] = 'Mamlakat haqiqiy emas.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Faks raqami noto&#39;g&#39;ri.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobil raqami noto&#39;g&#39;ri.';
+$lang['contact_extension_organization_is_invalid'] = 'Tashkilot haqiqiy emas.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'PTT qutisi haqiqiy emas.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Pochta kodi noto&#39;g&#39;ri hisoblanadi.';
+$lang['contact_extension_region_is_invalid'] = 'Region haqiqiy emas.';
+$lang['contact_extension_room_number_is_invalid'] = 'Xona raqami noto&#39;g&#39;ri.';
+$lang['contact_extension_street_is_invalid'] = 'Street haqiqiy emas.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Telefon raqami noto&#39;g&#39;ri.';
+$lang['contact_extension_unit_is_invalid'] = 'Birligi haqiqiy emas.';
