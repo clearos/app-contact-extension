@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Extension Contact The kordhiyay buugga la macluumaadka xiriirka user sida lambarka taleefanka, mobile, iyo cinwaanka.';
+$lang['contact_extension_app_name'] = 'Contact Extension';
+$lang['contact_extension_contact_account_extension'] = 'Contact Account Extension';
+$lang['contact_extension_contact'] = 'Contact';
+$lang['contact_extension_city'] = 'City';
+$lang['contact_extension_country'] = 'Country';
+$lang['contact_extension_fax_number'] = 'Number Fax';
+$lang['contact_extension_mobile_number'] = 'Nambarka taleefonka';
+$lang['contact_extension_organization'] = 'Organization';
+$lang['contact_extension_postal_code'] = 'boostada Code';
+$lang['contact_extension_post_office_box'] = 'Boostada Office Box';
+$lang['contact_extension_region'] = 'gobolka';
+$lang['contact_extension_room_number'] = 'Number Room';
+$lang['contact_extension_street'] = 'Street';
+$lang['contact_extension_telephone_number'] = 'Taleefan Lambar';
+$lang['contact_extension_unit'] = 'Unit';
+$lang['contact_extension_city_is_invalid'] = 'City waa baadil.';
+$lang['contact_extension_country_is_invalid'] = 'Country waa baadil.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Tirada Fax waa baadil.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Tirada Mobile waa baadil.';
+$lang['contact_extension_organization_is_invalid'] = 'Ururka waa baadil.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'sanduuqa xafiiska Post waa baadil.';
+$lang['contact_extension_postal_code_is_invalid'] = 'code Boostada waa baadil.';
+$lang['contact_extension_region_is_invalid'] = 'Gobolka waa baadil.';
+$lang['contact_extension_room_number_is_invalid'] = 'Tirada Room waa baadil.';
+$lang['contact_extension_street_is_invalid'] = 'Street waa baadil.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Lambarka telefoonka waa baadil.';
+$lang['contact_extension_unit_is_invalid'] = 'Unit waa baadil.';
