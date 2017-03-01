@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Die Kontakterweiterung erstreckt sich das Verzeichnis mit Benutzerkontaktinformationen wie Telefonnummer, Handy und Adresse.';
+$lang['contact_extension_app_name'] = 'Kontakterweiterung';
+$lang['contact_extension_contact_account_extension'] = 'Kontakt Konto Erweiterung';
+$lang['contact_extension_contact'] = 'Kontakt';
+$lang['contact_extension_city'] = 'Stadt';
+$lang['contact_extension_country'] = 'Land';
+$lang['contact_extension_fax_number'] = 'Faxnummer';
+$lang['contact_extension_mobile_number'] = 'Handynummer';
+$lang['contact_extension_organization'] = 'Organisation';
+$lang['contact_extension_postal_code'] = 'Postleitzahl';
+$lang['contact_extension_post_office_box'] = 'Post Box';
+$lang['contact_extension_region'] = 'Region';
+$lang['contact_extension_room_number'] = 'Zimmernummer';
+$lang['contact_extension_street'] = 'Straße';
+$lang['contact_extension_telephone_number'] = 'Telefonnummer';
+$lang['contact_extension_unit'] = 'Einheit';
+$lang['contact_extension_city_is_invalid'] = 'Stadt ist ungültig.';
+$lang['contact_extension_country_is_invalid'] = 'Land ist ungültig.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Fax-Nummer ist ungültig.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Mobilnummer ist ungültig.';
+$lang['contact_extension_organization_is_invalid'] = 'Organisation ist ungültig.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Postfach ist ungültig.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Postleitzahl ist ungültig.';
+$lang['contact_extension_region_is_invalid'] = 'Region ist ungültig.';
+$lang['contact_extension_room_number_is_invalid'] = 'Zimmernummer ist ungültig.';
+$lang['contact_extension_street_is_invalid'] = 'Straße ist ungültig.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Telefonnummer ist ungültig.';
+$lang['contact_extension_unit_is_invalid'] = 'Einheit ist ungültig.';
