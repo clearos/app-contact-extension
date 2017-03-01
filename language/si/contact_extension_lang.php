@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'ද කන්ටෑක්ට් ව්යාප්ති එවැනි දුරකථන අංකය, ජංගම, සහ ලිපිනය ලෙස පරිශීලක සම්බන්ධතා තොරතුරු බහලුම ව්යාප්ත කරයි.';
+$lang['contact_extension_app_name'] = 'අප අමතන්න ව්යාප්ති';
+$lang['contact_extension_contact_account_extension'] = 'ගිණුම ව්යාප්ති අමතන්න';
+$lang['contact_extension_contact'] = 'අමතන්න';
+$lang['contact_extension_city'] = 'නගරය';
+$lang['contact_extension_country'] = 'රට';
+$lang['contact_extension_fax_number'] = 'ෆැක්ස් අංකය';
+$lang['contact_extension_mobile_number'] = 'ජංගම දූරකථන අංකය';
+$lang['contact_extension_organization'] = 'ආයතනය';
+$lang['contact_extension_postal_code'] = 'තැපැල් කේතය';
+$lang['contact_extension_post_office_box'] = 'තැපැල් කාර්යාලය කොටුව';
+$lang['contact_extension_region'] = 'කලාපයේ';
+$lang['contact_extension_room_number'] = 'කාමර අංකය';
+$lang['contact_extension_street'] = 'වීදිය';
+$lang['contact_extension_telephone_number'] = 'දුරකථන අංකය';
+$lang['contact_extension_unit'] = 'ඒකකය';
+$lang['contact_extension_city_is_invalid'] = 'නගරය වලංගු නැත.';
+$lang['contact_extension_country_is_invalid'] = 'රටේ වලංගු නැත.';
+$lang['contact_extension_fax_number_is_invalid'] = 'ෆැක්ස් අංකය සාවද්ය වේ.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'ජංගම දුරකතන අංකය වලංගු නැත.';
+$lang['contact_extension_organization_is_invalid'] = 'සංවිධානය වලංගු නැත.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'තැපැල් කාර්යාලය කොටුව වලංගු නැත.';
+$lang['contact_extension_postal_code_is_invalid'] = 'තැපැල් කේතය වලංගු නැත.';
+$lang['contact_extension_region_is_invalid'] = 'කලාපයේ වලංගු නැත.';
+$lang['contact_extension_room_number_is_invalid'] = 'කාමරය අංකය සාවද්ය වේ.';
+$lang['contact_extension_street_is_invalid'] = 'වීදිය වලංගු නැත.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'දුරකථන අංකය වලංගු නැත.';
+$lang['contact_extension_unit_is_invalid'] = 'ඒකකය වලංගු නැත.';
