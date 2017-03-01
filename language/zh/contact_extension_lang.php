@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = '联系人扩展扩展了用户联系信息的目录，如电话号码，手机和地址。';
+$lang['contact_extension_app_name'] = '联系扩展';
+$lang['contact_extension_contact_account_extension'] = '联系客户扩展';
+$lang['contact_extension_contact'] = '联系';
+$lang['contact_extension_city'] = '市';
+$lang['contact_extension_country'] = '国家';
+$lang['contact_extension_fax_number'] = '传真号';
+$lang['contact_extension_mobile_number'] = '手机号码';
+$lang['contact_extension_organization'] = '组织';
+$lang['contact_extension_postal_code'] = '邮政编码';
+$lang['contact_extension_post_office_box'] = '邮政总局信箱';
+$lang['contact_extension_region'] = '地区';
+$lang['contact_extension_room_number'] = '房间号';
+$lang['contact_extension_street'] = '街';
+$lang['contact_extension_telephone_number'] = '电话号码';
+$lang['contact_extension_unit'] = '单元';
+$lang['contact_extension_city_is_invalid'] = '市无效。';
+$lang['contact_extension_country_is_invalid'] = '国家是无效的。';
+$lang['contact_extension_fax_number_is_invalid'] = '传真号码无效。';
+$lang['contact_extension_mobile_number_is_invalid'] = '手机号码无效。';
+$lang['contact_extension_organization_is_invalid'] = '组织是无效的。';
+$lang['contact_extension_post_office_box_is_invalid'] = '邮政信箱是无效的。';
+$lang['contact_extension_postal_code_is_invalid'] = '邮政编码无效。';
+$lang['contact_extension_region_is_invalid'] = '区域是无效的。';
+$lang['contact_extension_room_number_is_invalid'] = '房间号是无效的。';
+$lang['contact_extension_street_is_invalid'] = '街是无效的。';
+$lang['contact_extension_telephone_number_is_invalid'] = '电话号码是无效的。';
+$lang['contact_extension_unit_is_invalid'] = '单位是无效的。';
