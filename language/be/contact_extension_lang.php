@@ -1,0 +1,30 @@
+<?php
+
+$lang['contact_extension_app_description'] = 'Кантактная Extension пашырае каталог з карыстальнікам кантактнай інфармацыяй, такі як нумар тэлефона, мабільны, і адрас.';
+$lang['contact_extension_app_name'] = 'Як звязацца з Extension';
+$lang['contact_extension_contact_account_extension'] = 'Як звязацца з Extension Account';
+$lang['contact_extension_contact'] = 'кантакт';
+$lang['contact_extension_city'] = 'горад';
+$lang['contact_extension_country'] = 'краіна';
+$lang['contact_extension_fax_number'] = 'нумар факса';
+$lang['contact_extension_mobile_number'] = 'Нумар мабільнага тэлефона';
+$lang['contact_extension_organization'] = 'арганізацыя';
+$lang['contact_extension_postal_code'] = 'паштовы індэкс';
+$lang['contact_extension_post_office_box'] = 'Паштовае аддзяленне Box';
+$lang['contact_extension_region'] = 'вобласць';
+$lang['contact_extension_room_number'] = 'колькасць нумароў';
+$lang['contact_extension_street'] = 'вуліца';
+$lang['contact_extension_telephone_number'] = 'нумар тэлефона';
+$lang['contact_extension_unit'] = 'блок';
+$lang['contact_extension_city_is_invalid'] = 'Горад з&#39;яўляецца несапраўдным.';
+$lang['contact_extension_country_is_invalid'] = 'Краіна з&#39;яўляецца несапраўдным.';
+$lang['contact_extension_fax_number_is_invalid'] = 'Нумар факса з&#39;яўляецца несапраўдным.';
+$lang['contact_extension_mobile_number_is_invalid'] = 'Мабільны тэлефон з&#39;яўляецца несапраўдным.';
+$lang['contact_extension_organization_is_invalid'] = 'Арганізацыя з&#39;яўляецца несапраўдным.';
+$lang['contact_extension_post_office_box_is_invalid'] = 'Паштовую скрыню з&#39;яўляецца несапраўдным.';
+$lang['contact_extension_postal_code_is_invalid'] = 'Паштовы індэкс з&#39;яўляецца несапраўдным.';
+$lang['contact_extension_region_is_invalid'] = 'Рэгіён з&#39;яўляецца несапраўдным.';
+$lang['contact_extension_room_number_is_invalid'] = 'Колькасць нумароў з&#39;яўляецца несапраўдным.';
+$lang['contact_extension_street_is_invalid'] = 'Вуліца з&#39;яўляецца несапраўдным.';
+$lang['contact_extension_telephone_number_is_invalid'] = 'Нумар тэлефона з&#39;яўляецца несапраўдным.';
+$lang['contact_extension_unit_is_invalid'] = 'Адзінка з&#39;яўляецца несапраўдным.';
