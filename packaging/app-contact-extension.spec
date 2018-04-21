@@ -1,11 +1,13 @@
 
 Name: app-contact-extension
 Epoch: 1
-Version: 2.1.6
+Version: 2.5.0
 Release: 1%{dist}
-Summary: Contact Extension - Core
+Summary: Contact Extension - API
 License: LGPLv3
-Group: ClearOS/Libraries
+Group: Applications/API
+Packager: ClearFoundation
+Vendor: ClearFoundation
 Source: app-contact-extension-%{version}.tar.gz
 Buildarch: noarch
 
@@ -13,11 +15,11 @@ Buildarch: noarch
 The Contact Extension extends the directory with user contact information such as phone number, mobile, and address.
 
 %package core
-Summary: Contact Extension - Core
+Summary: Contact Extension - API
 Requires: app-base-core
 Requires: app-openldap-directory-core
-Requires: app-organization
-Requires: app-users
+Requires: app-organization-core
+Requires: app-users-core
 
 %description core
 The Contact Extension extends the directory with user contact information such as phone number, mobile, and address.
@@ -56,6 +58,7 @@ exit 0
 %files core
 %defattr(-,root,root)
 %exclude /usr/clearos/apps/contact_extension/packaging
+%exclude /usr/clearos/apps/contact_extension/unify.json
 %dir /usr/clearos/apps/contact_extension
 /usr/clearos/apps/contact_extension/deploy
 /usr/clearos/apps/contact_extension/language
